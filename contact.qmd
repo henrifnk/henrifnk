@@ -1,0 +1,18 @@
+---
+title: "Contact"
+---
+
+## Office
+
+Chair of Statistics\
+Ludwig-Maximilians-Universität München\
+Ludwigstraße 33, Room 340\
+80539 München, Germany
+
+**Email:** [Henri.Funk@stat.uni-muenchen.de](mailto:Henri.Funk@stat.uni-muenchen.de)
+
+## Find me online
+
+- [GitHub](https://github.com/henrifnk) — `henrifnk`
+- [ResearchGate](https://www.researchgate.net/profile/Henri-Funk)
+- [ORCID](https://orcid.org/0009-0007-0949-8385)
