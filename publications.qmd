@@ -1,0 +1,28 @@
+---
+title: "Publications"
+---
+
+Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Towards more
+realistic climate model outputs: A multivariate bias correction based on
+zero-inflated vine copulas.** *Journal of the Royal Statistical Society
+Series C: Applied Statistics*, qlaf044.
+
+Fischer et al. (2025). **mlr3extralearners: Expanding the mlr3 Ecosystem with
+Community-Driven Learner Integration.** *Journal of Open Source Software*,
+10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
+
+Scholbeck, C.A., Funk, H., Casalicchio, G. (2023). **Algorithm-Agnostic
+Feature Attributions for Clustering.** In: Longo, L. (eds) *Explainable
+Artificial Intelligence. xAI 2023.* Communications in Computer and
+Information Science, vol 1901. Springer, Cham.
+[doi:10.1007/978-3-031-44064-9_13](https://doi.org/10.1007/978-3-031-44064-9_13)
+
+H. Funk, C. Becker, A. Hofheinz, G. Xi, Y. Zhang, F. Pfisterer, M. Weigert,
+and M. Mittermeier (2021). **Towards an automated classification of hess
+brezowsky's atmospheric circulation patterns Tief and Trog Mitteleuropa using
+deep learning methods.** Shaker Verlag GmbH.
+[doi:10.2370/9783844083293](https://doi.org/10.2370/9783844083293)
+
+---
+
+Find the most up-to-date list on [ResearchGate](https://www.researchgate.net/profile/Henri-Funk).
