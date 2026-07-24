@@ -2,13 +2,49 @@
 title: "Publications"
 ---
 
+## Papers
+
+**Peer-reviewed journal articles**
+
 Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** *Journal of the Royal Statistical Society Series C: Applied Statistics*, qlaf044.
 
-Fischer et al. (2025). **mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration.** *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
+Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., ... Funk, H., ... Bischl, B., & Nazarova, A. (2025). **mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration.** *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
 
-Scholbeck, C.A., Funk, H., Casalicchio, G. (2023). **Algorithm-Agnostic Feature Attributions for Clustering.** In: Longo, L. (eds) *Explainable Artificial Intelligence. xAI 2023.* Communications in Computer and Information Science, vol 1901. Springer, Cham. [doi:10.1007/978-3-031-44064-9_13](https://doi.org/10.1007/978-3-031-44064-9_13)
+Lonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., ... & Olivieri, M. **HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B.** *Haemophilia — Official Journal of the World Federation of Hemophilia.* (in press)
 
-H. Funk, C. Becker, A. Hofheinz, G. Xi, Y. Zhang, F. Pfisterer, M. Weigert, and M. Mittermeier (2021). **Towards an automated classification of hess brezowsky's atmospheric circulation patterns Tief and Trog Mitteleuropa using deep learning methods.** Shaker Verlag GmbH. [doi:10.2370/9783844083293](https://doi.org/10.2370/9783844083293)
+**Preprints**
+
+Gruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. **Capturing Aleatoric Uncertainty in Climate Models.** Preprint.
+
+Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Modelling climate variables at high temporal resolution.** *ESS Open Archive eprints*, 40, essoar-173627220.
+
+## Conferences
+
+**Conference papers**
+
+Scholbeck, C.A., Funk, H., & Casalicchio, G. (2023). **Algorithm-Agnostic Feature Attributions for Clustering.** In: Longo, L. (eds) *Explainable Artificial Intelligence. xAI 2023.* Communications in Computer and Information Science, vol 1901. Springer, Cham. [doi:10.1007/978-3-031-44064-9_13](https://doi.org/10.1007/978-3-031-44064-9_13)
+
+Funk, H., Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., & Mittermeier, M. (2021). **Towards an automated classification of Hess-Brezowsky's atmospheric circulation patterns "Tief Mitteleuropa" and "Trog Mitteleuropa" using deep learning methods.** In *Environmental Informatics — Adjunct Proceedings of the 35th EnviroInfo Conference.* Shaker Verlag. [doi:10.2370/9783844083293](https://doi.org/10.2370/9783844083293)
+
+**Presentations & posters**
+
+Funk, H., Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. *AGU Fall Meeting Abstracts*, Vol. 2024, A54A-05.
+
+Sasse, A., Funk, H., Böhnisch, A., & Ludwig, R. (2024). Droughts in Central Europe: Assessing their characteristics and future dynamics in a hydroclimatic single-model large ensemble. *AGU Fall Meeting Abstracts*, H41I-0652.
+
+Funk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2024, July 23). Bias correction: Adjustment of climate model outputs to historical data. *Workshop on Dependence Models, Vines, and Their Applications*, Garching, Germany.
+
+Funk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2023, September 25–29). Evaluating the structure of bias-corrected climate variables. *International Conference on Regional Climate — CORDEX 2023 (ICRC-CORDEX 2023)*, Trieste, Italy.
+
+Meier, T., Paschan, N., Böhnisch, A., Funk, H., Sasse, A., & Küchenhoff, H. (2023, July 16–21). Analysis of climatological drivers of low-flow events in hydrological Bavaria using large-ensemble climate projections. In *Proceedings of the 37th International Workshop on Statistical Modelling (IWSM)*, Dortmund, Germany.
+
+## Code
+
+**[VBC](https://github.com/henrifnk/VBC)** — Vine copula bias correction for climate data; corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.
+
+**[FACT](https://github.com/henrifnk/FACT)** — Feature Attributions for Clustering; transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)
+
+**[FuzzyDBScan](https://github.com/henrifnk/FuzzyDBScan)** — Fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)
 
 ---
 
