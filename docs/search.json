@@ -1,94 +1,52 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer et al. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nScholbeck, C.A., Funk, H., Casalicchio, G. (2023). Algorithm-Agnostic Feature Attributions for Clustering. In: Longo, L. (eds) Explainable Artificial Intelligence. xAI 2023. Communications in Computer and Information Science, vol 1901. Springer, Cham. doi:10.1007/978-3-031-44064-9_13\nH. Funk, C. Becker, A. Hofheinz, G. Xi, Y. Zhang, F. Pfisterer, M. Weigert, and M. Mittermeier (2021). Towards an automated classification of hess brezowsky’s atmospheric circulation patterns Tief and Trog Mitteleuropa using deep learning methods. Shaker Verlag GmbH. doi:10.2370/9783844083293\n\nFind the most up-to-date list on ResearchGate."
+    "text": "Lecture & exercise, WS 25/26\nIntroductory statistics course for students of Geophysics at LMU Munich."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Henri Funk",
+    "objectID": "teaching.html#statistics-for-geophysicists",
+    "href": "teaching.html#statistics-for-geophysicists",
+    "title": "Teaching",
     "section": "",
-    "text": "I’m a PhD candidate at the Chair of Statistics, LMU Munich, working in cooperation with the group of Physical Geography and Complex Environmental Systems, and a member of the Statistical Consulting Unit (StaBLab).\nMy research combines statistical learning with environmental and climate data: multivariate bias correction of climate models, copula-based post-processing, and algorithm-agnostic interpretability for clustering.\nCV   Publications   Projects   Contact"
+    "text": "Lecture & exercise, WS 25/26\nIntroductory statistics course for students of Geophysics at LMU Munich."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Henri Funk",
-    "section": "Research interests",
-    "text": "Research interests\n\nClimate modelling & bias correction\nCompound events & hydrology\nCopula-based multivariate models\nExplainable / algorithm-agnostic machine learning\nUncertainty quantification\nRiver water temperatures & riverine heatwaves"
+    "objectID": "teaching.html#statistical-modelling-seminars",
+    "href": "teaching.html#statistical-modelling-seminars",
+    "title": "Teaching",
+    "section": "Statistical Modelling & Seminars",
+    "text": "Statistical Modelling & Seminars\nsince 2022\nCourses and seminars for Bachelor and Master students in Statistics at the Chair of Statistics, LMU Munich."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: Henri.Funk@stat.uni-muenchen.de"
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "",
-    "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: Henri.Funk@stat.uni-muenchen.de"
-  },
-  {
-    "objectID": "contact.html#find-me-online",
-    "href": "contact.html#find-me-online",
-    "title": "Contact",
-    "section": "Find me online",
-    "text": "Find me online\n\nGitHub — henrifnk\nResearchGate\nORCID"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download full CV (PDF)"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\n\nsince 2022Munich\n\n\nLudwig Maximilian University of Munich\nPhD Candidate at the Chair of Statistics, in cooperation with the working group of Physical Geography and Complex Environmental Systems.\n\n\n\n\n2020 – 2022Munich\n\n\nLudwig Maximilian University of Munich\nMaster of Science in Statistics\n\n\n\n\n2018 – 2020Munich\n\n\nLudwig Maximilian University of Munich\nPostgraduate studies (60 ECTS), major Statistics, minor Sociology\n\n\n\n\n2017Mexico\n\n\nTecnológico de Monterrey\nSemester abroad\n\n\n\n\n2014 – 2018Pforzheim\n\n\nHochschule Pforzheim\nBachelor of Science in BW / Market Research"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "Experience",
-    "text": "Experience\n\n\nsince 2022Munich\n\n\nStatistical Consulting (StaBLab)\nAdvising students and researchers on statistical issues\n\n\n\n\nsince 2022Munich\n\n\nTeaching\nStatistical modelling & seminars — courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)\n\n\n\n\nsince 2021Munich\n\n\nEssential Data Science Training GmbH\nTeaching assistant — R and statistics\n\n\n\n\n2022 – 2025Munich\n\n\nClimExII Project\nClimate modelling — drought prediction and bias correction\n\n\n\n\n2020 – 2022Munich\n\n\nChair for Statistical Learning & Data Science\nStudent assistant — mlr3 package and teaching"
-  },
-  {
-    "objectID": "cv.html#software-tools",
-    "href": "cv.html#software-tools",
-    "title": "CV",
-    "section": "Software & tools",
-    "text": "Software & tools\n\n\n\nCategory\nTools\n\n\n\n\nLanguages\nR, Python, LaTeX\n\n\nData science\nmlr3, scikit-learn, PyTorch\n\n\nVersion control\nGit, GitHub, GitLab\n\n\nIDE\nRStudio, VS Code"
-  },
-  {
-    "objectID": "cv.html#languages",
-    "href": "cv.html#languages",
-    "title": "CV",
-    "section": "Languages",
-    "text": "Languages\n\nGerman (native)\nEnglish (fluent)\nSpanish (basic)"
+    "objectID": "teaching.html#teaching-assistant-essential-data-science-training-gmbh",
+    "href": "teaching.html#teaching-assistant-essential-data-science-training-gmbh",
+    "title": "Teaching",
+    "section": "Teaching Assistant — Essential Data Science Training GmbH",
+    "text": "Teaching Assistant — Essential Data Science Training GmbH\nsince 2021\nTeaching R and statistics."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "River water temperatures and riverine heatwaves in Bavaria. Deep-learning models (LSTM-based) to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments."
+    "text": "River water temperatures and riverine heatwaves in Bavaria. Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments."
   },
   {
     "objectID": "projects.html#baywat-ai-starting-oct-2026",
     "href": "projects.html#baywat-ai-starting-oct-2026",
     "title": "Projects",
     "section": "",
-    "text": "River water temperatures and riverine heatwaves in Bavaria. Deep-learning models (LSTM-based) to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments."
+    "text": "River water temperatures and riverine heatwaves in Bavaria. Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments."
+  },
+  {
+    "objectID": "projects.html#climex-ii",
+    "href": "projects.html#climex-ii",
+    "title": "Projects",
+    "section": "ClimEx II",
+    "text": "ClimEx II\n2022 – 2025\nOne of my largest projects to date. Using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought. Contributions include a multivariate bias correction method based on zero-inflated vine copulas (VBC), a generalised-additive-model framework for quantifying the spatio-temporal structure of internal variability, its application to a standardised drought index revealing a near-certain southeastern European drought hotspot under +3°C warming, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. See the publication on vine copula bias correction."
   },
   {
     "objectID": "projects.html#climate-and-statistic",
@@ -124,5 +82,82 @@
     "title": "Projects",
     "section": "The No-U-Turn Sampler with dual averaging",
     "text": "The No-U-Turn Sampler with dual averaging\n2021\nSeminar project on Bayesian inference."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n\nsince 2022Munich\n\n\nLudwig Maximilian University of Munich\nPhD Candidate at the Chair of Statistics, in cooperation with the working group of Physical Geography and Complex Environmental Systems.\n\n\n\n\n2020 – 2022Munich\n\n\nLudwig Maximilian University of Munich\nMaster of Science in Statistics\n\n\n\n\n2018 – 2020Munich\n\n\nLudwig Maximilian University of Munich\nPostgraduate studies (60 ECTS), major Statistics, minor Sociology\n\n\n\n\n2017Mexico\n\n\nTecnológico de Monterrey\nSemester abroad\n\n\n\n\n2014 – 2018Pforzheim\n\n\nHochschule Pforzheim\nBachelor of Science in BW / Market Research"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\n\nsince 2022Munich\n\n\nStatistical Consulting (StaBLab)\nAdvising students and researchers on statistical issues\n\n\n\n\nsince 2022Munich\n\n\nTeaching\nStatistical modelling & seminars — courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)\n\n\n\n\nsince 2021Munich\n\n\nEssential Data Science Training GmbH\nTeaching assistant — R and statistics\n\n\n\n\n2022 – 2025Munich\n\n\nClimExII Project\nClimate modelling — drought prediction and bias correction\n\n\n\n\n2020 – 2022Munich\n\n\nChair for Statistical Learning & Data Science\nStudent assistant — mlr3 package and teaching"
+  },
+  {
+    "objectID": "cv.html#software-tools",
+    "href": "cv.html#software-tools",
+    "title": "CV",
+    "section": "Software & tools",
+    "text": "Software & tools\n\n\n\nCategory\nTools\n\n\n\n\nLanguages\nR, Python, LaTeX\n\n\nVersion control\nGit, GitHub, GitLab\n\n\nIDE\nRStudio, VS Code\n\n\nServer\nLRZ: SuperMUC Linux Cluster, AI Systems"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\n\nGerman (native)\nEnglish (fluent)\nSpanish (basic)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: Henri.Funk@stat.uni-muenchen.de"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "",
+    "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: Henri.Funk@stat.uni-muenchen.de"
+  },
+  {
+    "objectID": "contact.html#find-me-online",
+    "href": "contact.html#find-me-online",
+    "title": "Contact",
+    "section": "Find me online",
+    "text": "Find me online\n\nGitHub — henrifnk\nResearchGate\nORCID\nGoogle Scholar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Henri Funk",
+    "section": "",
+    "text": "I’m a PhD candidate at the Chair of Statistics, LMU Munich, working in cooperation with the group of Physical Geography and Complex Environmental Systems, and a member of the Statistical Consulting Unit (StaBLab).\nMy research decomposes climate model uncertainty into bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.\nCV   Teaching   Publications   Projects   Contact"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Henri Funk",
+    "section": "Research interests",
+    "text": "Research interests\nMy work centers on droughts and climate extremes: decomposing climate model uncertainty into bias, internal variability and forced signal, and carrying that decomposition through to drought characterisation and forecasting.\nStatistical methods — I’m broad and pragmatic here, applying whatever suits the problem:\n\nUncertainty decomposition and quantification (aleatoric/epistemic)\nMultivariate bias correction & copula modelling\nGeneralised additive models\nDeep learning for probabilistic forecasting\nExplainable / algorithm-agnostic machine learning\n\nGeographic & domain focus — centered on climate models:\n\nDroughts and compound climate extremes\nInternal variability of single-model large ensembles (SMILEs)\nEuropean drought hotspots under future warming\nHydrology & meteorology, streamflow deficits\nRiver water temperatures & riverine heatwaves"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer et al. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nScholbeck, C.A., Funk, H., Casalicchio, G. (2023). Algorithm-Agnostic Feature Attributions for Clustering. In: Longo, L. (eds) Explainable Artificial Intelligence. xAI 2023. Communications in Computer and Information Science, vol 1901. Springer, Cham. doi:10.1007/978-3-031-44064-9_13\nH. Funk, C. Becker, A. Hofheinz, G. Xi, Y. Zhang, F. Pfisterer, M. Weigert, and M. Mittermeier (2021). Towards an automated classification of hess brezowsky’s atmospheric circulation patterns Tief and Trog Mitteleuropa using deep learning methods. Shaker Verlag GmbH. doi:10.2370/9783844083293\n\nFind the most up-to-date list on ResearchGate."
   }
 ]
