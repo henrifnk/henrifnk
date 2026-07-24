@@ -46,7 +46,7 @@
     "href": "projects.html#climex-ii",
     "title": "Projects",
     "section": "ClimEx II",
-    "text": "ClimEx II\n2022 – 2025\nOne of my largest projects to date. Using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought. Contributions include a multivariate bias correction method based on zero-inflated vine copulas (VBC), a generalised-additive-model framework for quantifying the spatio-temporal structure of internal variability, its application to a standardised drought index revealing a near-certain southeastern European drought hotspot under +3°C warming, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. See the publication on vine copula bias correction."
+    "text": "ClimEx II\n2022 – 2025\nOne of my largest projects to date. ClimEx II is a Bavarian State Office for Environment (LfU)-funded project (2020–2025) studying low-water extremes — drought — under climate and land-use change across Bavaria, run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centered on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas (VBC), a generalised-additive-model framework for quantifying the spatio-temporal structure of internal variability, its application to a standardised drought index revealing a near-certain southeastern European drought hotspot under +3°C warming, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. See the publication on vine copula bias correction."
   },
   {
     "objectID": "projects.html#climate-and-statistic",
@@ -61,13 +61,6 @@
     "title": "Projects",
     "section": "Towards Algorithm-Agnostic Interpretability in Clustering",
     "text": "Towards Algorithm-Agnostic Interpretability in Clustering\n2022/23\nMaster thesis in Interpretable Machine Learning — transfer and extension of implementation methods to clustering tasks. See the publication and the package FACT."
-  },
-  {
-    "objectID": "projects.html#fuzzy-dbscan",
-    "href": "projects.html#fuzzy-dbscan",
-    "title": "Projects",
-    "section": "Fuzzy DBScan",
-    "text": "Fuzzy DBScan\n2022\nAn R package for fuzzy clustering with DBScan: FuzzyDBScan."
   },
   {
     "objectID": "projects.html#automated-classification-of-atmospheric-circulation-patterns-using-deep-learning-methods",
@@ -144,14 +137,14 @@
     "href": "index.html",
     "title": "Henri Funk",
     "section": "",
-    "text": "I’m a PhD candidate at the Chair of Statistics, LMU Munich, working in cooperation with the group of Physical Geography and Complex Environmental Systems, and a member of the Statistical Consulting Unit (StaBLab).\nMy research decomposes climate model uncertainty into bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.\nCV   Teaching   Publications   Projects   Contact"
+    "text": "I’m a PhD candidate at the Chair of Statistics, LMU Munich, working in cooperation with the group of Physical Geography and Complex Environmental Systems, and a member of the Statistical Consulting Unit (StaBLab).\nMy research decomposes climate model uncertainty into signal, bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.\nCV   Teaching   Publications   Projects   Contact"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Henri Funk",
     "section": "Research interests",
-    "text": "Research interests\nMy work centers on droughts and climate extremes: decomposing climate model uncertainty into bias, internal variability and forced signal, and carrying that decomposition through to drought characterisation and forecasting.\nStatistical methods — I’m broad and pragmatic here, applying whatever suits the problem:\n\nUncertainty decomposition and quantification (aleatoric/epistemic)\nMultivariate bias correction & copula modelling\nGeneralised additive models\nDeep learning for probabilistic forecasting\nExplainable / algorithm-agnostic machine learning\n\nGeographic & domain focus — centered on climate models:\n\nDroughts and compound climate extremes\nInternal variability of single-model large ensembles (SMILEs)\nEuropean drought hotspots under future warming\nHydrology & meteorology, streamflow deficits\nRiver water temperatures & riverine heatwaves"
+    "text": "Research interests\nMy work centers on droughts and climate extremes: decomposing climate model uncertainty into bias, internal variability and forced signal, and carrying that decomposition through to drought characterisation and forecasting.\nStatistical methods — I’m broad and pragmatic here, applying whatever suits the problem:\n\nUncertainty decomposition and quantification (aleatoric/epistemic)\nMultivariate bias correction & copula modelling\nGeneralised additive models\nDeep learning for probabilistic forecasting\nExplainable / algorithm-agnostic machine learning\n\nGeographic & domain focus — centered on climate models:\n\nClimate Models and specifically Single-model large ensembles (SMILEs)\nDroughts and compound climate extremes\nInternal variability\nEuropean drought hotspots under future warming\nHydrology & meteorology, streamflow deficits\nRiver water temperatures & riverine heatwaves"
   },
   {
     "objectID": "publications.html",
