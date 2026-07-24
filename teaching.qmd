@@ -20,7 +20,7 @@ Courses and seminars for Bachelor and Master students in Statistics at the Chair
 
 Co-instructor of ["Introduction to Statistical Data Analysis (with R)"](https://www.stat.lmu.de/stablab/de/lehrveranstaltungen/r-kurs/), StaBLab's biannual block course (Feb/March and Sept/Oct) introducing LMU students and doctoral candidates to statistics and R.
 
-## Teaching Assistant — Essential Data Science Training GmbH
+## Teaching Assistant, Essential Data Science Training GmbH
 
 *since 2021*
 

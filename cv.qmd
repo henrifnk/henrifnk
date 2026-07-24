@@ -81,7 +81,7 @@ since 2022<br>Munich
 
 ::: entry-body
 **Teaching**\
-Statistical modelling & seminars — courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)
+Statistical modelling & seminars: courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)
 :::
 :::::
 
@@ -92,7 +92,7 @@ since 2021<br>Munich
 
 ::: entry-body
 **Essential Data Science Training GmbH**\
-Teaching assistant — R and statistics
+Teaching assistant, R and statistics
 :::
 :::::
 
@@ -103,7 +103,7 @@ Teaching assistant — R and statistics
 
 ::: entry-body
 **ClimExII Project**\
-Climate modelling — drought prediction and bias correction
+Climate modelling, drought prediction and bias correction
 :::
 :::::
 
@@ -114,7 +114,7 @@ Climate modelling — drought prediction and bias correction
 
 ::: entry-body
 **Chair for Statistical Learning & Data Science**\
-Student assistant — `mlr3` package and teaching
+Student assistant, `mlr3` package and teaching
 :::
 :::::
 
