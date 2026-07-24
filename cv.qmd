@@ -6,118 +6,126 @@ title: "CV"
 
 ## Education
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 since 2022<br>Munich
 :::
-::: {.entry-body}
-**Ludwig Maximilian University of Munich**\
-PhD Candidate at the Chair of Statistics, in cooperation with the working
-group of Physical Geography and Complex Environmental Systems.
-:::
-:::
 
-::: {.entry}
-::: {.entry-date}
+::: entry-body
+**Ludwig Maximilian University of Munich**\
+PhD Candidate at the Chair of Statistics, in cooperation with the working group of Physical Geography and Complex Environmental Systems.
+:::
+:::::
+
+::::: entry
+::: entry-date
 2020 – 2022<br>Munich
 :::
-::: {.entry-body}
+
+::: entry-body
 **Ludwig Maximilian University of Munich**\
 Master of Science in Statistics
 :::
-:::
+:::::
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 2018 – 2020<br>Munich
 :::
-::: {.entry-body}
+
+::: entry-body
 **Ludwig Maximilian University of Munich**\
 Postgraduate studies (60 ECTS), major Statistics, minor Sociology
 :::
-:::
+:::::
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 2017<br>Mexico
 :::
-::: {.entry-body}
+
+::: entry-body
 **Tecnológico de Monterrey**\
 Semester abroad
 :::
-:::
+:::::
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 2014 – 2018<br>Pforzheim
 :::
-::: {.entry-body}
+
+::: entry-body
 **Hochschule Pforzheim**\
 Bachelor of Science in BW / Market Research
 :::
-:::
+:::::
 
 ## Experience
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 since 2022<br>Munich
 :::
-::: {.entry-body}
+
+::: entry-body
 **Statistical Consulting (StaBLab)**\
 Advising students and researchers on statistical issues
 :::
-:::
+:::::
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 since 2022<br>Munich
 :::
-::: {.entry-body}
-**Teaching**\
-Statistical modelling & seminars — courses for Bachelor and Master students
-in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)
-:::
-:::
 
-::: {.entry}
-::: {.entry-date}
+::: entry-body
+**Teaching**\
+Statistical modelling & seminars — courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)
+:::
+:::::
+
+::::: entry
+::: entry-date
 since 2021<br>Munich
 :::
-::: {.entry-body}
+
+::: entry-body
 **Essential Data Science Training GmbH**\
 Teaching assistant — R and statistics
 :::
-:::
+:::::
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 2022 – 2025<br>Munich
 :::
-::: {.entry-body}
+
+::: entry-body
 **ClimExII Project**\
 Climate modelling — drought prediction and bias correction
 :::
-:::
+:::::
 
-::: {.entry}
-::: {.entry-date}
+::::: entry
+::: entry-date
 2020 – 2022<br>Munich
 :::
-::: {.entry-body}
+
+::: entry-body
 **Chair for Statistical Learning & Data Science**\
 Student assistant — `mlr3` package and teaching
 :::
-:::
+:::::
 
 ## Software & tools
 
-| Category | Tools |
-|---|---|
-| Languages | R, Python, LaTeX |
-| Data science | `mlr3`, scikit-learn, PyTorch |
-| Version control | Git, GitHub, GitLab |
-| IDE | RStudio, VS Code |
+| Category        | Tools                                   |
+|-----------------|-----------------------------------------|
+| Languages       | R, Python, LaTeX                        |
+| Version control | Git, GitHub, GitLab                     |
+| IDE             | RStudio, VS Code                        |
+| Server          | LRZ: SuperMUC Linux Cluster, AI Systems |
 
 ## Languages
 
