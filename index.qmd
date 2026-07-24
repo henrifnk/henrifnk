@@ -12,13 +12,9 @@ page-layout: full
 # Henri Funk (he / him)
 ### PhD Candidate in Statistics · LMU Munich
 
-I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, working in
-cooperation with the group of Physical Geography and Complex Environmental
-Systems, and a member of the **Statistical Consulting Unit (StaBLab)**.
+I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, working in cooperation with the group of Physical Geography and Complex Environmental Systems, and a member of the **Statistical Consulting Unit (StaBLab)**.
 
-My research combines statistical learning with environmental and climate
-data: multivariate bias correction of climate models, copula-based
-post-processing, and algorithm-agnostic interpretability for clustering.
+My research decomposes climate model uncertainty into bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.
 
 [CV](cv.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
 [Publications](publications.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
@@ -30,17 +26,25 @@ post-processing, and algorithm-agnostic interpretability for clustering.
 ::: {.highlight-box}
 **Starting October 2026** <span class="badge-soon">upcoming</span>
 
-I'll be joining **BayWaT-AI**, a new project on river water temperatures and
-riverine heatwaves in Bavaria, developing deep-learning models to predict
-stream temperature extremes under climate change. More details on the
-[Projects](projects.qmd) page.
+I'll be joining **BayWaT-AI**, a new project on river water temperatures and riverine heatwaves in Bavaria, developing deep-learning models to predict stream temperature extremes under climate change. More details on the [Projects](projects.qmd) page.
 :::
 
 ## Research interests
 
-- Climate modelling & bias correction
-- Compound events & hydrology
-- Copula-based multivariate models
+My work centers on droughts and climate extremes: decomposing climate model uncertainty into bias, internal variability and forced signal, and carrying that decomposition through to drought characterisation and forecasting.
+
+**Statistical methods** — I'm broad and pragmatic here, applying whatever suits the problem:
+
+- Uncertainty decomposition and quantification (aleatoric/epistemic)
+- Multivariate bias correction & copula modelling
+- Generalised additive models
+- Deep learning for probabilistic forecasting
 - Explainable / algorithm-agnostic machine learning
-- Uncertainty quantification
+
+**Geographic & domain focus** — centered on climate models:
+
+- Droughts and compound climate extremes
+- Internal variability of single-model large ensembles (SMILEs)
+- European drought hotspots under future warming
+- Hydrology & meteorology, streamflow deficits
 - River water temperatures & riverine heatwaves
