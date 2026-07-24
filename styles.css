@@ -81,25 +81,30 @@ a:hover {
 .social-links {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   flex-wrap: wrap;
   gap: 0.6rem;
   margin: 0.25rem 0 1.25rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 .social-links a {
-  color: var(--muted);
+  color: var(--accent-dark);
   text-decoration: none;
-  border: 1px solid var(--border);
+  border: 1px solid var(--accent);
   border-radius: 6px;
   padding: 0.3rem 0.7rem;
-  transition: color 0.15s, border-color 0.15s;
+  transition: color 0.15s, background-color 0.15s;
 }
 .social-links a:hover {
-  color: var(--accent);
-  border-color: var(--accent);
+  color: #fff;
+  background-color: var(--accent);
 }
 .social-links a i {
   margin-right: 0.35rem;
+  color: var(--accent-dark);
+}
+.social-links a:hover i {
+  color: #fff;
 }
 
 /* Timeline-style entries used on CV / Projects pages */
