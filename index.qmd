@@ -1,5 +1,5 @@
 ---
-title: "Henri Funk"
+pagetitle: "Henri Funk"
 page-layout: full
 ---
 
