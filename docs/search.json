@@ -53,21 +53,21 @@
     "href": "projects.html#climate-and-statistic",
     "title": "Projects",
     "section": "Climate and Statistic",
-    "text": "Climate and Statistic\nsince 2024\nA comprehension of machine learning and statistical methods in climate modelling. Supervising a collaborative student project in a seminar at LMU."
+    "text": "Climate and Statistic\nsince 2024\nA comprehension of machine learning and statistical methods in climate modelling. Supervising a collaborative student project in a seminar at LMU. Seminar books: 2024/25 and 2023/24."
   },
   {
     "objectID": "projects.html#towards-algorithm-agnostic-interpretability-in-clustering",
     "href": "projects.html#towards-algorithm-agnostic-interpretability-in-clustering",
     "title": "Projects",
     "section": "Towards Algorithm-Agnostic Interpretability in Clustering",
-    "text": "Towards Algorithm-Agnostic Interpretability in Clustering\n2022/23\nMaster thesis in Interpretable Machine Learning — transfer and extension of implementation methods to clustering tasks. See the publication and the CRAN package FACT."
+    "text": "Towards Algorithm-Agnostic Interpretability in Clustering\n2022/23\nMaster thesis in Interpretable Machine Learning — transfer and extension of implementation methods to clustering tasks. See the publication and the package FACT."
   },
   {
     "objectID": "projects.html#fuzzy-dbscan",
     "href": "projects.html#fuzzy-dbscan",
     "title": "Projects",
     "section": "Fuzzy DBScan",
-    "text": "Fuzzy DBScan\n2022\nAn R CRAN package for fuzzy clustering with DBScan."
+    "text": "Fuzzy DBScan\n2022\nAn R package for fuzzy clustering with DBScan: FuzzyDBScan."
   },
   {
     "objectID": "projects.html#automated-classification-of-atmospheric-circulation-patterns-using-deep-learning-methods",
@@ -158,6 +158,27 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer et al. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nScholbeck, C.A., Funk, H., Casalicchio, G. (2023). Algorithm-Agnostic Feature Attributions for Clustering. In: Longo, L. (eds) Explainable Artificial Intelligence. xAI 2023. Communications in Computer and Information Science, vol 1901. Springer, Cham. doi:10.1007/978-3-031-44064-9_13\nH. Funk, C. Becker, A. Hofheinz, G. Xi, Y. Zhang, F. Pfisterer, M. Weigert, and M. Mittermeier (2021). Towards an automated classification of hess brezowsky’s atmospheric circulation patterns Tief and Trog Mitteleuropa using deep learning methods. Shaker Verlag GmbH. doi:10.2370/9783844083293\n\nFind the most up-to-date list on ResearchGate."
+    "text": "Peer-reviewed journal articles\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., … Funk, H., … Bischl, B., & Nazarova, A. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nLonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., … & Olivieri, M. HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B. Haemophilia — Official Journal of the World Federation of Hemophilia. (in press)\nPreprints\nGruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. Capturing Aleatoric Uncertainty in Climate Models. Preprint.\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. ESS Open Archive eprints, 40, essoar-173627220."
+  },
+  {
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Peer-reviewed journal articles\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., … Funk, H., … Bischl, B., & Nazarova, A. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nLonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., … & Olivieri, M. HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B. Haemophilia — Official Journal of the World Federation of Hemophilia. (in press)\nPreprints\nGruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. Capturing Aleatoric Uncertainty in Climate Models. Preprint.\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. ESS Open Archive eprints, 40, essoar-173627220."
+  },
+  {
+    "objectID": "publications.html#conferences",
+    "href": "publications.html#conferences",
+    "title": "Publications",
+    "section": "Conferences",
+    "text": "Conferences\nConference papers\nScholbeck, C.A., Funk, H., & Casalicchio, G. (2023). Algorithm-Agnostic Feature Attributions for Clustering. In: Longo, L. (eds) Explainable Artificial Intelligence. xAI 2023. Communications in Computer and Information Science, vol 1901. Springer, Cham. doi:10.1007/978-3-031-44064-9_13\nFunk, H., Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., & Mittermeier, M. (2021). Towards an automated classification of Hess-Brezowsky’s atmospheric circulation patterns “Tief Mitteleuropa” and “Trog Mitteleuropa” using deep learning methods. In Environmental Informatics — Adjunct Proceedings of the 35th EnviroInfo Conference. Shaker Verlag. doi:10.2370/9783844083293\nPresentations & posters\nFunk, H., Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. AGU Fall Meeting Abstracts, Vol. 2024, A54A-05.\nSasse, A., Funk, H., Böhnisch, A., & Ludwig, R. (2024). Droughts in Central Europe: Assessing their characteristics and future dynamics in a hydroclimatic single-model large ensemble. AGU Fall Meeting Abstracts, H41I-0652.\nFunk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2024, July 23). Bias correction: Adjustment of climate model outputs to historical data. Workshop on Dependence Models, Vines, and Their Applications, Garching, Germany.\nFunk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2023, September 25–29). Evaluating the structure of bias-corrected climate variables. International Conference on Regional Climate — CORDEX 2023 (ICRC-CORDEX 2023), Trieste, Italy.\nMeier, T., Paschan, N., Böhnisch, A., Funk, H., Sasse, A., & Küchenhoff, H. (2023, July 16–21). Analysis of climatological drivers of low-flow events in hydrological Bavaria using large-ensemble climate projections. In Proceedings of the 37th International Workshop on Statistical Modelling (IWSM), Dortmund, Germany."
+  },
+  {
+    "objectID": "publications.html#code",
+    "href": "publications.html#code",
+    "title": "Publications",
+    "section": "Code",
+    "text": "Code\nVBC — Vine copula bias correction for climate data; corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.\nFACT — Feature Attributions for Clustering; transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)\nFuzzyDBScan — Fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)\n\nFind the most up-to-date list on ResearchGate."
   }
 ]
