@@ -44,7 +44,7 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 
 **Geographic & domain focus** — centered on climate models:
 
-- Climate Models, specifically Single-model large ensembles (SMILEs)
+- Climate models, specifically single-model large ensembles (SMILEs)
 - Droughts and compound climate extremes
 - Internal variability
 - European drought hotspots under future warming
