@@ -84,20 +84,22 @@ a:hover {
   flex-wrap: wrap;
   gap: 0.6rem;
   margin: 0.25rem 0 1.25rem;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 .social-links a {
   color: var(--muted);
   text-decoration: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.3rem 0.7rem;
+  transition: color 0.15s, border-color 0.15s;
 }
 .social-links a:hover {
   color: var(--accent);
+  border-color: var(--accent);
 }
 .social-links a i {
-  margin-right: 0.3rem;
-}
-.social-links .sep {
-  color: var(--border);
+  margin-right: 0.35rem;
 }
 
 /* Timeline-style entries used on CV / Projects pages */

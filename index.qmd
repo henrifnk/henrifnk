@@ -18,11 +18,8 @@ My research decomposes climate model uncertainty into signal, bias and internal 
 
 ::: {.social-links}
 <a href="https://github.com/henrifnk"><i class="bi bi-github"></i> GitHub</a>
-<span class="sep">|</span>
 <a href="https://www.researchgate.net/profile/Henri-Funk"><i class="bi bi-journal-richtext"></i> ResearchGate</a>
-<span class="sep">|</span>
 <a href="https://orcid.org/0009-0007-0949-8385"><i class="bi bi-person-vcard"></i> ORCID</a>
-<span class="sep">|</span>
 <a href="https://scholar.google.com/citations?user=-1kc-pMAAAAJ&hl=de"><i class="bi bi-mortarboard-fill"></i> Google Scholar</a>
 :::
 :::
