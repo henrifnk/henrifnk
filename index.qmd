@@ -39,11 +39,13 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 
 ::::: {.research-grid}
 ::: {.research-box}
-<div class="research-icon"><i class="bi bi-tools"></i></div>
-
-**Statistical methods**
-
-I'm broad and pragmatic here, applying whatever suits the problem.
+<div class="research-title">
+<i class="bi bi-tools research-icon"></i>
+<div>
+<div class="research-heading">Statistical methods</div>
+<div class="research-sub">I'm broad and pragmatic here, applying whatever suits the problem.</div>
+</div>
+</div>
 
 - Uncertainty decomposition and quantification (aleatoric/epistemic)
 - Multivariate bias correction & copula modelling
@@ -53,11 +55,13 @@ I'm broad and pragmatic here, applying whatever suits the problem.
 :::
 
 ::: {.research-box}
-<div class="research-icon"><i class="bi bi-globe-europe-africa"></i></div>
-
-**Geographic & domain focus**
-
-Centered on climate models.
+<div class="research-title">
+<i class="bi bi-globe-europe-africa research-icon"></i>
+<div>
+<div class="research-heading">Geographic & domain focus</div>
+<div class="research-sub">Centered on climate models.</div>
+</div>
+</div>
 
 - Climate models, specifically single-model large ensembles (SMILEs)
 - Droughts and compound climate extremes
