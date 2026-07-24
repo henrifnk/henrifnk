@@ -17,10 +17,13 @@ I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, supervised by [P
 My research decomposes climate model uncertainty into signal, bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.
 
 ::: {.social-links}
-<a href="https://github.com/henrifnk" aria-label="GitHub" title="GitHub"><i class="bi bi-github"></i></a>
-<a href="https://www.researchgate.net/profile/Henri-Funk" aria-label="ResearchGate" title="ResearchGate"><i class="bi bi-journal-richtext"></i></a>
-<a href="https://orcid.org/0009-0007-0949-8385" aria-label="ORCID" title="ORCID"><i class="bi bi-person-vcard"></i></a>
-<a href="https://scholar.google.com/citations?user=-1kc-pMAAAAJ&hl=de" aria-label="Google Scholar" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+<a href="https://github.com/henrifnk"><i class="bi bi-github"></i> GitHub</a>
+<span class="sep">|</span>
+<a href="https://www.researchgate.net/profile/Henri-Funk"><i class="bi bi-journal-richtext"></i> ResearchGate</a>
+<span class="sep">|</span>
+<a href="https://orcid.org/0009-0007-0949-8385"><i class="bi bi-person-vcard"></i> ORCID</a>
+<span class="sep">|</span>
+<a href="https://scholar.google.com/citations?user=-1kc-pMAAAAJ&hl=de"><i class="bi bi-mortarboard-fill"></i> Google Scholar</a>
 :::
 :::
 :::
