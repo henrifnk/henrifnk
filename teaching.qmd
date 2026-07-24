@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+## Statistics for Geophysicists
+
+*Lecture & exercise, WS 25/26*
+
+Introductory statistics course for students of Geophysics at LMU Munich.
+
+## Statistical Modelling & Seminars
+
+*since 2022*
+
+Courses and seminars for Bachelor and Master students in Statistics at the Chair of Statistics, LMU Munich.
+
+## Teaching Assistant — Essential Data Science Training GmbH
+
+*since 2021*
+
+Teaching R and statistics.

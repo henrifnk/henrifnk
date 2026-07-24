@@ -12,6 +12,8 @@ website:
         text: About
       - href: cv.qmd
         text: CV
+      - href: teaching.qmd
+        text: Teaching
       - href: publications.qmd
         text: Publications
       - href: projects.qmd

@@ -17,6 +17,7 @@ I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, working in coope
 My research decomposes climate model uncertainty into bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.
 
 [CV](cv.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
+[Teaching](teaching.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
 [Publications](publications.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
 [Projects](projects.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
 [Contact](contact.qmd){.btn .btn-outline-secondary .btn-sm}
