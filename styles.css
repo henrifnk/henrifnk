@@ -134,6 +134,29 @@ a:hover {
   margin: 1.5rem 0;
 }
 
+/* Research interest boxes, side by side on the About page */
+.research-grid {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+.research-box {
+  flex: 1 1 260px;
+  background-color: #f2f7f8;
+  border-left: 4px solid var(--accent);
+  border-radius: 4px;
+  padding: 1.25rem 1.5rem;
+}
+.research-box .research-icon {
+  font-size: 1.6rem;
+  color: var(--accent);
+  margin-bottom: 0.4rem;
+}
+.research-box p {
+  margin-bottom: 0.6rem;
+}
+
 .badge-soon {
   display: inline-block;
   background-color: var(--accent);

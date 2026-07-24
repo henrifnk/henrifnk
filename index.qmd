@@ -14,7 +14,7 @@ page-layout: full
 :::
 
 ::: {.hero-text}
-I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, supervised by [Prof. Dr. Helmut Küchenhoff](https://www.lmu.de/mzn/de/mitglieder/kontaktseite/helmut-kuechenhoff-bc664f45.html), working in cooperation with [Prof. Dr. Ralf Ludwig's](https://www.geo.lmu.de/de/fakultaet-geowissenschaften/personen/kontaktseite/ralf-ludwig-13b9822d.html) [working group](https://www.geo.lmu.de/geographie/de/forschung/physische-geographie-und-nexusforschung/ueber-uns/ag-ludwig/) for Applied Physical Geography and Environmental Modeling, and a member of the **[Statistical Consulting Unit (StaBLab)](https://www.stat.lmu.de/stablab/en/)**.
+I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, supervised by [Prof. Dr. Helmut Küchenhoff](https://www.lmu.de/mzn/de/mitglieder/kontaktseite/helmut-kuechenhoff-bc664f45.html), working in cooperation with [Prof. Dr. Ralf Ludwig's](https://www.geo.lmu.de/de/fakultaet-geowissenschaften/personen/kontaktseite/ralf-ludwig-13b9822d.html) [working group](https://www.geo.lmu.de/geographie/de/forschung/physische-geographie-und-nexusforschung/ueber-uns/ag-ludwig/) for Applied Physical Geography and Environmental Modeling, a member of the **[Statistical Consulting Unit (StaBLab)](https://www.stat.lmu.de/stablab/en/)**, and affiliated with the **[Munich Center for Machine Learning (MCML)](https://mcml.ai)**.
 
 My research decomposes climate model uncertainty into signal, bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.
 
@@ -37,15 +37,27 @@ I'll be joining **BayWaT-AI**, a new project on river water temperatures and riv
 
 My work centers on droughts and climate extremes: decomposing climate model uncertainty into bias, internal variability and forced signal, and carrying that decomposition through to drought characterisation and forecasting.
 
-**Statistical methods** — I'm broad and pragmatic here, applying whatever suits the problem:
+::::: {.research-grid}
+::: {.research-box}
+<div class="research-icon"><i class="bi bi-tools"></i></div>
+
+**Statistical methods**
+
+I'm broad and pragmatic here, applying whatever suits the problem.
 
 - Uncertainty decomposition and quantification (aleatoric/epistemic)
 - Multivariate bias correction & copula modelling
 - Generalised additive models
 - Deep learning for probabilistic forecasting
 - Explainable / algorithm-agnostic machine learning
+:::
 
-**Geographic & domain focus** — centered on climate models:
+::: {.research-box}
+<div class="research-icon"><i class="bi bi-globe-europe-africa"></i></div>
+
+**Geographic & domain focus**
+
+Centered on climate models.
 
 - Climate models, specifically single-model large ensembles (SMILEs)
 - Droughts and compound climate extremes
@@ -53,3 +65,5 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 - European drought hotspots under future warming
 - Hydrology & meteorology, streamflow deficits
 - River water temperatures & riverine heatwaves
+:::
+:::::
