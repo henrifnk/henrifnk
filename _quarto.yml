@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Henri Funk"
+  description: "PhD Candidate in Statistics, LMU Munich"
+  site-url: "https://henrifnk.github.io/henrifnk"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/henrifnk
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:Henri.Funk@stat.uni-muenchen.de
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Henri Funk"
+    right: "Built with [Quarto](https://quarto.org)"
+  reader-mode: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 900px
+    anchor-sections: false
