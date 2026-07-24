@@ -10,3 +10,9 @@ Ludwigstraße 33, Room 340\
 80539 München, Germany
 
 **Email:** [H.Funk@lmu.de](mailto:H.Funk@lmu.de)
+
+## Affiliations
+
+- Department of Geography, LMU Munich, Luisenstraße 37, 80333 München, Germany
+- Statistical Consulting Unit (StaBLab), LMU Munich, Ludwigstraße 33, 80539 München, Germany
+- [Munich Center for Machine Learning (MCML)](https://mcml.ai), Oettingenstraße 67, 80538 München, Germany
