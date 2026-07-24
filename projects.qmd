@@ -7,27 +7,26 @@ title: "Projects"
 ::: {.highlight-box}
 ![](images/baywat-ai.png){fig-alt="BayWaT-AI project cover" style="max-width: 100%; border-radius: 6px;"}
 
-**River water temperatures and riverine heatwaves in Bavaria.** Deep-learning
-models (LSTM-based) to predict stream water temperatures and detect riverine
-heatwave events under climate change, building on hydrological and
-meteorological data across Bavarian catchments.
+**River water temperatures and riverine heatwaves in Bavaria.** Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments.
 :::
+
+## ClimEx II
+
+*2022 – 2025*
+
+One of my largest projects to date. Using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought. Contributions include a multivariate bias correction method based on zero-inflated vine copulas (VBC), a generalised-additive-model framework for quantifying the spatio-temporal structure of internal variability, its application to a standardised drought index revealing a near-certain southeastern European drought hotspot under +3°C warming, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. See the [publication](publications.qmd) on vine copula bias correction.
 
 ## Climate and Statistic
 
 *since 2024*
 
-A comprehension of machine learning and statistical methods in climate
-modelling. Supervising a collaborative student project in a seminar at LMU.
+A comprehension of machine learning and statistical methods in climate modelling. Supervising a collaborative student project in a seminar at LMU.
 
 ## Towards Algorithm-Agnostic Interpretability in Clustering
 
 *2022/23*
 
-Master thesis in Interpretable Machine Learning — transfer and extension of
-implementation methods to clustering tasks. See the
-[publication](publications.qmd) and the CRAN package
-[FACT](https://cran.r-project.org/package=FACT).
+Master thesis in Interpretable Machine Learning — transfer and extension of implementation methods to clustering tasks. See the [publication](publications.qmd) and the CRAN package [FACT](https://cran.r-project.org/package=FACT).
 
 ## Fuzzy DBScan
 
@@ -39,8 +38,7 @@ An R CRAN package for fuzzy clustering with DBScan.
 
 *2021*
 
-Development of a Python package using PyTorch; publication and presentation
-at the EnviroInfo conference. 1st place at bidt Innovation Laboratories.
+Development of a Python package using PyTorch; publication and presentation at the EnviroInfo conference. 1st place at bidt Innovation Laboratories.
 
 ## The No-U-Turn Sampler with dual averaging
 
