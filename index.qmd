@@ -14,7 +14,7 @@ page-layout: full
 
 I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, working in cooperation with the group of Physical Geography and Complex Environmental Systems, and a member of the **Statistical Consulting Unit (StaBLab)**.
 
-My research decomposes climate model uncertainty into bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.
+My research decomposes climate model uncertainty into signal, bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.
 
 [CV](cv.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
 [Teaching](teaching.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
@@ -44,8 +44,9 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 
 **Geographic & domain focus** — centered on climate models:
 
+- Climate Models and specifically Single-model large ensembles (SMILEs)
 - Droughts and compound climate extremes
-- Internal variability of single-model large ensembles (SMILEs)
+- Internal variability
 - European drought hotspots under future warming
 - Hydrology & meteorology, streamflow deficits
 - River water temperatures & riverine heatwaves

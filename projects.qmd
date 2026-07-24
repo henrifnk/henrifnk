@@ -26,17 +26,11 @@ A comprehension of machine learning and statistical methods in climate modelling
 
 Master thesis in Interpretable Machine Learning — transfer and extension of implementation methods to clustering tasks. See the [publication](publications.qmd) and the package [FACT](https://github.com/henrifnk/FACT).
 
-## Fuzzy DBScan
-
-*2022*
-
-An R package for fuzzy clustering with DBScan: [FuzzyDBScan](https://github.com/henrifnk/FuzzyDBScan).
-
 ## Automated classification of atmospheric circulation patterns using deep learning methods
 
 *2021*
 
-Development of a Python package using PyTorch; publication and presentation at the EnviroInfo conference. 1st place at bidt Innovation Laboratories.
+Development of a [Python package](https://github.com/henrifnk/climex) using PyTorch; publication and presentation at the EnviroInfo conference. 1st place at bidt Innovation Laboratories.
 
 ## The No-U-Turn Sampler with dual averaging
 
