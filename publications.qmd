@@ -8,7 +8,7 @@ title: "Publications"
 
 Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** *Journal of the Royal Statistical Society Series C: Applied Statistics*, qlaf044.
 
-Gruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). **Capturing Aleatoric Uncertainty in Climate Models.** *Environmetrics.* [arXiv preprint](https://arxiv.org/abs/2604.15067)
+Gruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). **Capturing Aleatoric Uncertainty in Climate Models.** *Environmetrics*, 37(5), e70108. [doi:10.1002/env.70108](https://doi.org/10.1002/env.70108)
 
 Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., ... Funk, H., ... Bischl, B., & Nazarova, A. (2025). **mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration.** *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
 
