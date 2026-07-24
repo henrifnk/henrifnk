@@ -133,18 +133,11 @@
     "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: H.Funk@lmu.de"
   },
   {
-    "objectID": "contact.html#find-me-online",
-    "href": "contact.html#find-me-online",
-    "title": "Contact",
-    "section": "Find me online",
-    "text": "Find me online\n\nGitHub — henrifnk\nResearchGate\nORCID\nGoogle Scholar"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Henri Funk (he / him)",
     "section": "",
-    "text": "I’m a PhD candidate at the Chair of Statistics, LMU Munich, supervised by Prof. Dr. Helmut Küchenhoff, working in cooperation with Prof. Dr. Ralf Ludwig’s working group for Applied Physical Geography and Environmental Modeling, and a member of the Statistical Consulting Unit (StaBLab).\nMy research decomposes climate model uncertainty into signal, bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering.\nCV   Teaching   Publications   Projects   Contact"
+    "text": "I’m a PhD candidate at the Chair of Statistics, LMU Munich, supervised by Prof. Dr. Helmut Küchenhoff, working in cooperation with Prof. Dr. Ralf Ludwig’s working group for Applied Physical Geography and Environmental Modeling, and a member of the Statistical Consulting Unit (StaBLab).\nMy research decomposes climate model uncertainty into signal, bias and internal variability, with a focus on droughts: multivariate bias correction with vine copulas, uncertainty quantification, and algorithm-agnostic interpretability for clustering."
   },
   {
     "objectID": "index.html#research-interests",

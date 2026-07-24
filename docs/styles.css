@@ -78,6 +78,20 @@ a:hover {
   margin-top: -0.5rem;
 }
 
+.social-links {
+  display: flex;
+  gap: 1.25rem;
+  margin: 0.25rem 0 1.25rem;
+}
+.social-links a {
+  color: var(--muted);
+  font-size: 1.35rem;
+  line-height: 1;
+}
+.social-links a:hover {
+  color: var(--accent);
+}
+
 /* Timeline-style entries used on CV / Projects pages */
 .entry {
   display: flex;
