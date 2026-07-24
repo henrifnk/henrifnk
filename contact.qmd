@@ -10,10 +10,3 @@ Ludwigstraße 33, Room 340\
 80539 München, Germany
 
 **Email:** [H.Funk@lmu.de](mailto:H.Funk@lmu.de)
-
-## Find me online
-
-- [GitHub](https://github.com/henrifnk) — `henrifnk`
-- [ResearchGate](https://www.researchgate.net/profile/Henri-Funk)
-- [ORCID](https://orcid.org/0009-0007-0949-8385)
-- [Google Scholar](https://scholar.google.com/citations?user=-1kc-pMAAAAJ&hl=de)
