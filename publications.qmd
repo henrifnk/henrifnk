@@ -6,15 +6,19 @@ title: "Publications"
 
 **Peer-reviewed journal articles**
 
+A few of these fall outside climate science — they come out of my work advising researchers through [StaBLab](https://www.stat.lmu.de/stablab/en/), LMU's statistical consulting unit.
+
 Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** *Journal of the Royal Statistical Society Series C: Applied Statistics*, qlaf044.
+
+Gruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). **Capturing Aleatoric Uncertainty in Climate Models.** *Environmetrics.* [arXiv preprint](https://arxiv.org/abs/2604.15067)
 
 Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., ... Funk, H., ... Bischl, B., & Nazarova, A. (2025). **mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration.** *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
 
 Lonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., ... & Olivieri, M. **HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B.** *Haemophilia — Official Journal of the World Federation of Hemophilia.* (in press)
 
-**Preprints**
+Paßlack, N., Veit, H., Funk, H., Zentek, J., & Schuchardt, S. (2026). **Impact of a Dietary Fish Oil Supplementation on the Plasma Lipidome of Healthy Adult Cats.** *Metabolites.*
 
-Gruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. **Capturing Aleatoric Uncertainty in Climate Models.** Preprint.
+**Preprints**
 
 Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Modelling climate variables at high temporal resolution.** *ESS Open Archive eprints*, 40, essoar-173627220.
 
