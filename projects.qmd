@@ -5,8 +5,6 @@ title: "Projects"
 ## BayWaT-AI <span class="badge-soon">starting Oct 2026</span>
 
 ::: {.highlight-box}
-![](images/baywat-ai.png){fig-alt="BayWaT-AI project cover" style="max-width: 100%; border-radius: 6px;"}
-
 **River water temperatures and riverine heatwaves in Bavaria.** Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments.
 :::
 
