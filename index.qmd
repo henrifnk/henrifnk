@@ -1,0 +1,46 @@
+---
+title: "Henri Funk"
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-photo}
+![](images/profile.jpg){.profile-img}
+:::
+
+::: {.hero-text}
+# Henri Funk (he / him)
+### PhD Candidate in Statistics · LMU Munich
+
+I'm a PhD candidate at the **Chair of Statistics, LMU Munich**, working in
+cooperation with the group of Physical Geography and Complex Environmental
+Systems, and a member of the **Statistical Consulting Unit (StaBLab)**.
+
+My research combines statistical learning with environmental and climate
+data: multivariate bias correction of climate models, copula-based
+post-processing, and algorithm-agnostic interpretability for clustering.
+
+[CV](cv.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
+[Publications](publications.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
+[Projects](projects.qmd){.btn .btn-outline-secondary .btn-sm} &nbsp;
+[Contact](contact.qmd){.btn .btn-outline-secondary .btn-sm}
+:::
+:::
+
+::: {.highlight-box}
+**Starting October 2026** <span class="badge-soon">upcoming</span>
+
+I'll be joining **BayWaT-AI**, a new project on river water temperatures and
+riverine heatwaves in Bavaria, developing deep-learning models to predict
+stream temperature extremes under climate change. More details on the
+[Projects](projects.qmd) page.
+:::
+
+## Research interests
+
+- Climate modelling & bias correction
+- Compound events & hydrology
+- Copula-based multivariate models
+- Explainable / algorithm-agnostic machine learning
+- Uncertainty quantification
+- River water temperatures & riverine heatwaves
