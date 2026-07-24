@@ -58,7 +58,7 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 <div class="research-title">
 <i class="bi bi-globe-europe-africa research-icon"></i>
 <div>
-<div class="research-heading">Geographic & domain focus</div>
+<div class="research-heading">Geography & Climatology</div>
 <div class="research-sub">Centered on climate models.</div>
 </div>
 </div>
