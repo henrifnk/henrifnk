@@ -6,8 +6,6 @@ title: "Publications"
 
 **Peer-reviewed journal articles**
 
-A few of these fall outside climate science — they come out of my work advising researchers through [StaBLab](https://www.stat.lmu.de/stablab/en/), LMU's statistical consulting unit.
-
 Funk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** *Journal of the Royal Statistical Society Series C: Applied Statistics*, qlaf044.
 
 Gruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). **Capturing Aleatoric Uncertainty in Climate Models.** *Environmetrics.* [arXiv preprint](https://arxiv.org/abs/2604.15067)
@@ -32,6 +30,8 @@ Funk, H., Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M
 
 **Presentations & posters**
 
+Funk, H., Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., & Mittermeier, M. (2026, May 3–8). Uncertainty-Aware AI Forecasting of European Droughts: The Role of Internal Climate Variability. *EGU General Assembly 2026*, Vienna, Austria & Online. [doi:10.5194/egusphere-egu26-10474](https://doi.org/10.5194/egusphere-egu26-10474)
+
 Funk, H., Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. *AGU Fall Meeting Abstracts*, Vol. 2024, A54A-05.
 
 Sasse, A., Funk, H., Böhnisch, A., & Ludwig, R. (2024). Droughts in Central Europe: Assessing their characteristics and future dynamics in a hydroclimatic single-model large ensemble. *AGU Fall Meeting Abstracts*, H41I-0652.
@@ -44,12 +44,12 @@ Meier, T., Paschan, N., Böhnisch, A., Funk, H., Sasse, A., & Küchenhoff, H. (2
 
 ## Code
 
-**[VBC](https://github.com/henrifnk/VBC)** — Vine copula bias correction for climate data; corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.
+[**VBC**](https://github.com/henrifnk/VBC) — Vine copula bias correction for climate data; corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.
 
-**[FACT](https://github.com/henrifnk/FACT)** — Feature Attributions for Clustering; transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)
+[**FACT**](https://github.com/henrifnk/FACT) — Feature Attributions for Clustering; transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)
 
-**[FuzzyDBScan](https://github.com/henrifnk/FuzzyDBScan)** — Fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)
+[**FuzzyDBScan**](https://github.com/henrifnk/FuzzyDBScan) — Fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)
 
----
+------------------------------------------------------------------------
 
-Find the most up-to-date list on [ResearchGate](https://www.researchgate.net/profile/Henri-Funk).
+Find the most up-to-date list on [ResearchGate](https://www.researchgate.net/profile/Henri-Funk). A few of the contributions here fall outside climate science — they come out of my work advising researchers through [StaBLab](https://www.stat.lmu.de/stablab/en/), LMU's statistical consulting unit.
