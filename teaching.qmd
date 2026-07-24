@@ -14,8 +14,18 @@ Introductory statistics course for students of Geophysics at LMU Munich.
 
 Courses and seminars for Bachelor and Master students in Statistics at the Chair of Statistics, LMU Munich.
 
+## R-Kurs (StaBLab)
+
+*since 2022*
+
+Co-instructor of ["Introduction to Statistical Data Analysis (with R)"](https://www.stat.lmu.de/stablab/de/lehrveranstaltungen/r-kurs/), StaBLab's biannual block course (Feb/March and Sept/Oct) introducing LMU students and doctoral candidates to statistics and R.
+
 ## Teaching Assistant — Essential Data Science Training GmbH
 
 *since 2021*
 
 Teaching R and statistics.
+
+---
+
+*Also at the department: [prospective-student counselling (Schülerberatung)](https://www.stat.lmu.de/en/studies/student-counselling/) and workplace first aider (Ersthelfer).*
