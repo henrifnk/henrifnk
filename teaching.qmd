@@ -4,27 +4,33 @@ title: "Teaching"
 
 ## Statistics for Geophysicists
 
-*Lecture & exercise, WS 25/26*
+*Lecture & exercise, WS 25/26 — Department of Statistics & Department of Earth and Environmental Sciences, LMU Munich*
 
-Introductory statistics course for students of Geophysics at LMU Munich.
+A full introduction to statistics for students of Geophysics, spanning descriptive statistics, inductive statistics (probability, estimation, confidence intervals, hypothesis testing) and statistical modelling (linear and generalised linear models). A second strand covers geostatistical methods for spatially and temporally structured data. Every topic is treated both in theory and in application: the lecture develops the methods, and the accompanying exercise puts them to work in R on geoscientific data, so that students leave able to run and interpret an analysis themselves rather than only recognise the formulas.
 
-## Statistical Modelling & Seminars
+## Climate & Statistics seminars
 
-*since 2022*
+*since 2022 — Department of Statistics, LMU Munich*
 
-Courses and seminars for Bachelor and Master students in Statistics at the Chair of Statistics, LMU Munich.
+A seminar for Bachelor and Master students in Statistics on statistical and machine learning methods in climate science. Students work in small teams on a topic of current research interest, and each edition is published collaboratively as an open seminar book: every chapter is written, reviewed and revised by the participants, so the seminar doubles as an exercise in scientific writing and reproducible reporting. Topics have ranged from internal climate variability, compound events and copula models to neural hydrology, riverine heatwaves, uncertainty quantification and climate tipping points.
+
+**Seminar books**
+
+- [Climate and Statistics III](https://henrifnk.github.io/Seminar_ClimateNStatistics26/) (2026) — Funk, H., & Küchenhoff, H.
+- [Climate and Statistics II](https://henrifnk.github.io/Seminar_ClimateNStatistics2425/) (2025) — Funk, H., Sasse, A., Küchenhoff, H., & Ludwig, R.
+- [Climate and Statistics](https://henrifnk.github.io/Seminar_ClimateNStatistics/) (2024) — Küchenhoff, H., & Funk, H.
 
 ## R-Kurs (StaBLab)
 
-*since 2022*
+*since 2022 — LMU Munich*
 
-Co-instructor of ["Introduction to Statistical Data Analysis (with R)"](https://www.stat.lmu.de/stablab/de/lehrveranstaltungen/r-kurs/), StaBLab's biannual block course (Feb/March and Sept/Oct) introducing LMU students and doctoral candidates to statistics and R.
+Co-instructor of ["Introduction to Statistical Data Analysis (with R)"](https://www.stat.lmu.de/stablab/de/lehrveranstaltungen/r-kurs/), StaBLab's biannual block course (February/March and September/October). Over a compact block, participants from across LMU — students and doctoral candidates, most of them from non-statistical disciplines — learn to handle their own data in R: import and wrangling, graphics, descriptive summaries, and the standard inferential and regression tools they need for their theses and research projects.
 
 ## Teaching Assistant, Essential Data Science Training GmbH
 
 *since 2021*
 
-Teaching R and statistics.
+Teaching R and statistics in professional training courses. I support participants during the hands-on sessions, work through the exercises with them and help debug their code, with an audience that is mostly applied practitioners rather than statisticians.
 
 ---
 
