@@ -4,105 +4,84 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Lecture & exercise, WS 25/26\nIntroductory statistics course for students of Geophysics at LMU Munich."
+    "text": "Lecture & exercise, WS 25/26 — Department of Statistics & Department of Earth and Environmental Sciences, LMU Munich\nA full introduction to statistics for students of Geophysics, spanning descriptive statistics, inductive statistics (probability, estimation, confidence intervals, hypothesis testing) and statistical modelling (linear and generalised linear models). A second strand covers geostatistical methods for spatially and temporally structured data. Every topic is treated both in theory and in application: the lecture develops the methods, and the accompanying exercise puts them to work in R on geoscientific data, so that students leave able to run and interpret an analysis themselves rather than only recognise the formulas."
   },
   {
     "objectID": "teaching.html#statistics-for-geophysicists",
     "href": "teaching.html#statistics-for-geophysicists",
     "title": "Teaching",
     "section": "",
-    "text": "Lecture & exercise, WS 25/26\nIntroductory statistics course for students of Geophysics at LMU Munich."
+    "text": "Lecture & exercise, WS 25/26 — Department of Statistics & Department of Earth and Environmental Sciences, LMU Munich\nA full introduction to statistics for students of Geophysics, spanning descriptive statistics, inductive statistics (probability, estimation, confidence intervals, hypothesis testing) and statistical modelling (linear and generalised linear models). A second strand covers geostatistical methods for spatially and temporally structured data. Every topic is treated both in theory and in application: the lecture develops the methods, and the accompanying exercise puts them to work in R on geoscientific data, so that students leave able to run and interpret an analysis themselves rather than only recognise the formulas."
   },
   {
-    "objectID": "teaching.html#statistical-modelling-seminars",
-    "href": "teaching.html#statistical-modelling-seminars",
+    "objectID": "teaching.html#climate-statistics-seminars",
+    "href": "teaching.html#climate-statistics-seminars",
     "title": "Teaching",
-    "section": "Statistical Modelling & Seminars",
-    "text": "Statistical Modelling & Seminars\nsince 2022\nCourses and seminars for Bachelor and Master students in Statistics at the Chair of Statistics, LMU Munich."
+    "section": "Climate & Statistics seminars",
+    "text": "Climate & Statistics seminars\nsince 2022 — Department of Statistics, LMU Munich\nA seminar for Bachelor and Master students in Statistics on statistical and machine learning methods in climate science. Students work in small teams on a topic of current research interest, and each edition is published collaboratively as an open seminar book: every chapter is written, reviewed and revised by the participants, so the seminar doubles as an exercise in scientific writing and reproducible reporting. Topics have ranged from internal climate variability, compound events and copula models to neural hydrology, riverine heatwaves, uncertainty quantification and climate tipping points.\nSeminar books\n\nClimate and Statistics III (2026) — Funk, H., & Küchenhoff, H.\nClimate and Statistics II (2025) — Funk, H., Sasse, A., Küchenhoff, H., & Ludwig, R.\nClimate and Statistics (2024) — Küchenhoff, H., & Funk, H."
   },
   {
     "objectID": "teaching.html#r-kurs-stablab",
     "href": "teaching.html#r-kurs-stablab",
     "title": "Teaching",
     "section": "R-Kurs (StaBLab)",
-    "text": "R-Kurs (StaBLab)\nsince 2022\nCo-instructor of “Introduction to Statistical Data Analysis (with R)”, StaBLab’s biannual block course (Feb/March and Sept/Oct) introducing LMU students and doctoral candidates to statistics and R."
+    "text": "R-Kurs (StaBLab)\nsince 2022 — LMU Munich\nCo-instructor of “Introduction to Statistical Data Analysis (with R)”, StaBLab’s biannual block course (February/March and September/October). Over a compact block, participants from across LMU — students and doctoral candidates, most of them from non-statistical disciplines — learn to handle their own data in R: import and wrangling, graphics, descriptive summaries, and the standard inferential and regression tools they need for their theses and research projects."
   },
   {
     "objectID": "teaching.html#teaching-assistant-essential-data-science-training-gmbh",
     "href": "teaching.html#teaching-assistant-essential-data-science-training-gmbh",
     "title": "Teaching",
     "section": "Teaching Assistant, Essential Data Science Training GmbH",
-    "text": "Teaching Assistant, Essential Data Science Training GmbH\nsince 2021\nTeaching R and statistics.\n\nAlso at the department: prospective-student counselling (Schülerberatung) and workplace first aider (Ersthelfer)."
+    "text": "Teaching Assistant, Essential Data Science Training GmbH\nsince 2021\nTeaching R and statistics in professional training courses. I support participants during the hands-on sessions, work through the exercises with them and help debug their code, with an audience that is mostly applied practitioners rather than statisticians.\n\nAlso at the department: prospective-student counselling (Schülerberatung) and workplace first aider (Ersthelfer)."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "River water temperatures and riverine heatwaves in Bavaria. Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments.\nFunder: Bavarian State Office for Environment (LfU)."
+    "text": "Process- and AI-based modelling of water temperature in Bavarian rivers, today and tomorrow — tools for Bavarian water management.\nFunder: Bavarian State Office for Environment (LfU).\n\nRising water temperatures are one of the central climate risks for Bavarian rivers. Warmer water holds less oxygen, accelerates microbial turnover and nutrient and pollutant reactions, and reduces the self-purification capacity of a river — effects that are sharpest exactly during low-flow phases, when temperature and sensitivity to additional stressors rise together. The consequences reach from aquatic ecosystems (temperature-sensitive species such as trout, grayling and brook lamprey, algal blooms, fish kills) to energy supply, since many thermal power plants rely on river water for cooling and face regulatory limits on return temperatures.\nBayWaT-AI addresses this along two complementary modelling strands. The first is process-based: energy-balance models of river temperature (candidates include HeatSource and CE-QUAL-W2) are benchmarked on selected Bavarian rivers for their physical fidelity, their coupling to WaSiM discharge simulations and the ClimEx ensembles, and their operational usability in an agency setting. The second is data-driven: deep learning models, in particular recurrent architectures such as LSTMs together with explainable-AI variants, trained on the high-resolution discharge time series that WaSiM provides for 98 river basin gauges across Bavaria — a setup already demonstrated prototypically within ClimEx II.\nMy part sits mainly on the data-driven and uncertainty side. Concretely, this means comparing model skill, robustness and spatial transferability of both strands; developing regionalisation and transfer-learning strategies so that catchments with sparse or short measurement records can still be modelled credibly; and building a layered uncertainty framework from ensemble-spread analysis, variance and sensitivity studies, and XAI-based attribution of the drivers that govern thermal dynamics. Spatially explicit predictors — land use and sealing, urban heat islands, anthropogenic heat inputs, riparian shading, and morphological parameters such as width, depth, bed structure and flow velocity — are integrated explicitly, so that regional differences in the vulnerability of rivers can be resolved rather than averaged away. A further question is what is lost by using daily instead of sub-daily climate data: the sub-daily ClimEx ensemble and the daily Bavarian climate ensemble are compared systematically to quantify how much of the short-lived temperature peaks and extreme thermal events disappears with coarser temporal resolution.\nBeyond the projections, the project develops a prototype short-term forecasting model using current meteorological inputs, hydrological state and real-time discharge, evaluated in pilot operation for its usefulness in early-warning and alerting processes. All of this converges on a deliverable handed over to the LfU: a runnable, maintainable user tool that combines long-term SSP-based projections, process-based components, AI-based forecasts and uncertainty quantification behind interfaces to the Bavarian climate ensemble and to hydrological model output, so the agency can operate and extend it independently."
   },
   {
     "objectID": "projects.html#baywat-ai-starting-oct-2026",
     "href": "projects.html#baywat-ai-starting-oct-2026",
     "title": "Projects",
     "section": "",
-    "text": "River water temperatures and riverine heatwaves in Bavaria. Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments.\nFunder: Bavarian State Office for Environment (LfU)."
+    "text": "Process- and AI-based modelling of water temperature in Bavarian rivers, today and tomorrow — tools for Bavarian water management.\nFunder: Bavarian State Office for Environment (LfU).\n\nRising water temperatures are one of the central climate risks for Bavarian rivers. Warmer water holds less oxygen, accelerates microbial turnover and nutrient and pollutant reactions, and reduces the self-purification capacity of a river — effects that are sharpest exactly during low-flow phases, when temperature and sensitivity to additional stressors rise together. The consequences reach from aquatic ecosystems (temperature-sensitive species such as trout, grayling and brook lamprey, algal blooms, fish kills) to energy supply, since many thermal power plants rely on river water for cooling and face regulatory limits on return temperatures.\nBayWaT-AI addresses this along two complementary modelling strands. The first is process-based: energy-balance models of river temperature (candidates include HeatSource and CE-QUAL-W2) are benchmarked on selected Bavarian rivers for their physical fidelity, their coupling to WaSiM discharge simulations and the ClimEx ensembles, and their operational usability in an agency setting. The second is data-driven: deep learning models, in particular recurrent architectures such as LSTMs together with explainable-AI variants, trained on the high-resolution discharge time series that WaSiM provides for 98 river basin gauges across Bavaria — a setup already demonstrated prototypically within ClimEx II.\nMy part sits mainly on the data-driven and uncertainty side. Concretely, this means comparing model skill, robustness and spatial transferability of both strands; developing regionalisation and transfer-learning strategies so that catchments with sparse or short measurement records can still be modelled credibly; and building a layered uncertainty framework from ensemble-spread analysis, variance and sensitivity studies, and XAI-based attribution of the drivers that govern thermal dynamics. Spatially explicit predictors — land use and sealing, urban heat islands, anthropogenic heat inputs, riparian shading, and morphological parameters such as width, depth, bed structure and flow velocity — are integrated explicitly, so that regional differences in the vulnerability of rivers can be resolved rather than averaged away. A further question is what is lost by using daily instead of sub-daily climate data: the sub-daily ClimEx ensemble and the daily Bavarian climate ensemble are compared systematically to quantify how much of the short-lived temperature peaks and extreme thermal events disappears with coarser temporal resolution.\nBeyond the projections, the project develops a prototype short-term forecasting model using current meteorological inputs, hydrological state and real-time discharge, evaluated in pilot operation for its usefulness in early-warning and alerting processes. All of this converges on a deliverable handed over to the LfU: a runnable, maintainable user tool that combines long-term SSP-based projections, process-based components, AI-based forecasts and uncertainty quantification behind interfaces to the Bavarian climate ensemble and to hydrological model output, so the agency can operate and extend it independently."
   },
   {
     "objectID": "projects.html#climex-ii",
     "href": "projects.html#climex-ii",
     "title": "Projects",
     "section": "ClimEx II",
-    "text": "ClimEx II\n2022 – 2025\nOne of my largest projects to date. ClimEx II studies low-water extremes and drought under climate and land-use change across Bavaria (2020–2025), run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centered on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas (VBC), the application of a European standardised drought index, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. For scientific contributions, see the publication.\nFunders: Bavarian State Ministry for the Environment and Consumer Protection, and the Bavarian State Office for Environment (LfU)."
-  },
-  {
-    "objectID": "projects.html#climate-and-statistic",
-    "href": "projects.html#climate-and-statistic",
-    "title": "Projects",
-    "section": "Climate and Statistic",
-    "text": "Climate and Statistic\nsince 2024\nA comprehension of machine learning and statistical methods in climate modelling. Supervising a collaborative student project in a seminar at LMU. Seminar books: 2024/25 and 2023/24."
-  },
-  {
-    "objectID": "projects.html#towards-algorithm-agnostic-interpretability-in-clustering",
-    "href": "projects.html#towards-algorithm-agnostic-interpretability-in-clustering",
-    "title": "Projects",
-    "section": "Towards Algorithm-Agnostic Interpretability in Clustering",
-    "text": "Towards Algorithm-Agnostic Interpretability in Clustering\n2022/23\nMaster thesis in Interpretable Machine Learning: transfer and extension of implementation methods to clustering tasks. See the publication and the package FACT."
-  },
-  {
-    "objectID": "projects.html#automated-classification-of-atmospheric-circulation-patterns-using-deep-learning-methods",
-    "href": "projects.html#automated-classification-of-atmospheric-circulation-patterns-using-deep-learning-methods",
-    "title": "Projects",
-    "section": "Automated classification of atmospheric circulation patterns using deep learning methods",
-    "text": "Automated classification of atmospheric circulation patterns using deep learning methods\n2021\nDevelopment of a Python package using PyTorch; publication and presentation at the EnviroInfo conference. 1st place at bidt Innovation Laboratories."
-  },
-  {
-    "objectID": "projects.html#the-no-u-turn-sampler-with-dual-averaging",
-    "href": "projects.html#the-no-u-turn-sampler-with-dual-averaging",
-    "title": "Projects",
-    "section": "The No-U-Turn Sampler with dual averaging",
-    "text": "The No-U-Turn Sampler with dual averaging\n2021\nSeminar project on Bayesian inference."
+    "text": "ClimEx II\n2022 – 2025\nOne of my largest projects to date. ClimEx II studies low-water extremes and drought under climate and land-use change across Bavaria (2020–2025), run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centered on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas (VBC), the application of a European standardised drought index, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. For scientific contributions, see the publications.\nFunders: Bavarian State Ministry for the Environment and Consumer Protection, and the Bavarian State Office for Environment (LfU)."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download full CV (PDF)"
+    "text": "Download full CV (PDF) Download list of publications (PDF)\nI am a PhD candidate in Statistics at LMU Munich, supervised by Prof. Dr. Helmut Küchenhoff and working with Prof. Dr. Ralf Ludwig’s group for Applied Physical Geography and Environmental Modelling. My cumulative dissertation develops statistical methods for decomposing climate model uncertainty into bias, internal variability and forced signal, and applies them to drought characterisation and forecasting in Europe: a vine-copula-based multivariate bias correction, a generalised additive model framework for internal variability, and an uncertainty-aware deep-learning drought forecasting system. Alongside my research I teach statistics and R, and I advise researchers through StaBLab, LMU’s statistical consulting unit."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\n\nsince 2022Munich\n\n\nLudwig Maximilian University of Munich\nPhD Candidate at the Chair of Statistics, supervised by Prof. Dr. Helmut Küchenhoff, in cooperation with Prof. Dr. Ralf Ludwig’s working group for Applied Physical Geography and Environmental Modeling.\n\n\n\n\n2020 – 2022Munich\n\n\nLudwig Maximilian University of Munich\nMaster of Science in Statistics\n\n\n\n\n2018 – 2020Munich\n\n\nLudwig Maximilian University of Munich\nPostgraduate studies (60 ECTS), major Statistics, minor Sociology\n\n\n\n\n2017Mexico\n\n\nTecnológico de Monterrey\nSemester abroad\n\n\n\n\n2014 – 2018Pforzheim\n\n\nHochschule Pforzheim\nBachelor of Science in BW / Market Research"
+    "text": "Education\n\n\nsince 2022Munich\n\n\nLudwig Maximilian University of Munich\nPhD Candidate at the Department of Statistics, supervised by Prof. Dr. Helmut Küchenhoff, in cooperation with Prof. Dr. Ralf Ludwig’s working group for Applied Physical Geography and Environmental Modeling, Department of Geography. Affiliated with the Munich Center for Machine Learning (MCML) through the Küchenhoff research group.\n\n\n\n\n2020 – 2022Munich\n\n\nLudwig Maximilian University of Munich\nMaster of Science in Statistics (Statistik mit wirtschafts- und sozialwissenschaftlicher Ausrichtung)\n\n\n\n\n2018 – 2020Munich\n\n\nLudwig Maximilian University of Munich\nPostgraduate studies (60 ECTS), major Statistics, minor Sociology\n\n\n\n\n2017Mexico\n\n\nTecnológico de Monterrey\nSemester abroad\n\n\n\n\n2014 – 2018Pforzheim\n\n\nHochschule Pforzheim\nBachelor of Science in Business Administration / Market Research"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
     "title": "CV",
     "section": "Experience",
-    "text": "Experience\n\n\nsince 2022Munich\n\n\nStatistical Consulting (StaBLab)\nAdvising students and researchers on statistical issues\n\n\n\n\nsince 2022Munich\n\n\nTeaching\nStatistical modelling & seminars: courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)\n\n\n\n\nsince 2021Munich\n\n\nEssential Data Science Training GmbH\nTeaching assistant, R and statistics\n\n\n\n\n2022 – 2025Munich\n\n\nClimExII Project\nClimate modelling, drought prediction and bias correction\n\n\n\n\n2020 – 2022Munich\n\n\nChair for Statistical Learning & Data Science\nStudent assistant, mlr3 package and teaching"
+    "text": "Experience\n\n\nfrom 10/2026Munich\n\n\nBayWaT-AI Project\nResearcher: deep-learning models for river water temperatures and riverine heatwaves in Bavaria\n\n\n\n\nsince 2022Munich\n\n\nStatistical Consulting (StaBLab)\nAdvising students and researchers on statistical issues\n\n\n\n\nsince 2022Munich\n\n\nTeaching\nClimate & Statistics seminars for Bachelor and Master students; Statistics for Geophysicists lecture and exercise (WS 25/26); R-Kurs at StaBLab. See Teaching\n\n\n\n\nsince 2021Munich\n\n\nEssential Data Science Training GmbH\nTeaching assistant, R and statistics\n\n\n\n\n2022 – 2025Munich\n\n\nClimEx II Project\nClimate modelling, drought prediction and bias correction\n\n\n\n\n2020 – 2022Munich\n\n\nChair for Statistical Learning & Data Science\nStudent assistant, mlr3 package and teaching"
+  },
+  {
+    "objectID": "cv.html#affiliations",
+    "href": "cv.html#affiliations",
+    "title": "CV",
+    "section": "Affiliations",
+    "text": "Affiliations\n\nDepartment of Statistics, LMU Munich, Ludwigstraße 33, 80539 Munich, Germany\nStatistical Consulting Unit (StaBLab), LMU Munich, Ludwigstraße 33, 80539 Munich, Germany\nDepartment of Geography, LMU Munich, Luisenstraße 37, 80333 Munich, Germany\nMunich Center for Machine Learning (MCML), Oettingenstraße 67, 80538 Munich, Germany"
   },
   {
     "objectID": "cv.html#software-tools",
@@ -123,14 +102,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: H.Funk@lmu.de"
+    "text": "Department of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: H.Funk@lmu.de"
   },
   {
     "objectID": "contact.html#office",
     "href": "contact.html#office",
     "title": "Contact",
     "section": "",
-    "text": "Chair of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: H.Funk@lmu.de"
+    "text": "Department of Statistics\nLudwig-Maximilians-Universität München\nLudwigstraße 33, Room 340\n80539 München, Germany\nEmail: H.Funk@lmu.de"
   },
   {
     "objectID": "contact.html#affiliations",
@@ -151,27 +130,34 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Peer-reviewed journal articles\nGruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). Capturing Aleatoric Uncertainty in Climate Models. Environmetrics, 37(5), e70108. doi:10.1002/env.70108\nPaßlack, N., Veit, H., Funk, H., Zentek, J., & Schuchardt, S. (2026). Impact of a Dietary Fish Oil Supplementation on the Plasma Lipidome of Healthy Adult Cats. Metabolites.\nLonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., … & Olivieri, M. HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B. Haemophilia: Official Journal of the World Federation of Hemophilia. (in press)\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., … Funk, H., … Bischl, B., & Nazarova, A. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nPreprints\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. ESS Open Archive eprints, 40, essoar-173627220."
+    "text": "Download full list of publications (PDF)"
   },
   {
     "objectID": "publications.html#papers",
     "href": "publications.html#papers",
     "title": "Publications",
-    "section": "",
-    "text": "Peer-reviewed journal articles\nGruber, C., Funk, H., Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). Capturing Aleatoric Uncertainty in Climate Models. Environmetrics, 37(5), e70108. doi:10.1002/env.70108\nPaßlack, N., Veit, H., Funk, H., Zentek, J., & Schuchardt, S. (2026). Impact of a Dietary Fish Oil Supplementation on the Plasma Lipidome of Healthy Adult Cats. Metabolites.\nLonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., … & Olivieri, M. HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B. Haemophilia: Official Journal of the World Federation of Hemophilia. (in press)\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society Series C: Applied Statistics, qlaf044.\nFischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., … Funk, H., … Bischl, B., & Nazarova, A. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nPreprints\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. ESS Open Archive eprints, 40, essoar-173627220."
+    "section": "Papers",
+    "text": "Papers\nPeer-reviewed journal articles\nGruber, C.*, Funk, H.*, Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). Capturing aleatoric uncertainty in climate models. Environmetrics, 37(5). doi:10.1002/env.70108\nPaßlack, N., Veit, H., Funk, H., Zentek, J., & Schuchardt, S. (2026). Impact of a dietary fish oil supplementation on the plasma lipidome of healthy adult cats. Metabolites, 16(6), 427. doi:10.3390/metabo16060427\nLonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., Funk, H., Hölz, J., Holzapfel, J., Juranek, S., Lieftüchter, V., Bidlingmaier, C., & Olivieri, M. (2026). HAEMFIX: Impact of switching from SHL-FIX to EHL-FIX in patients with haemophilia B. Haemophilia, 32(1), 55–62. doi:10.1111/hae.70157\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society: Series C (Applied Statistics). doi:10.1093/jrsssc/qlaf044\nFischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., Schneider, L., Burk, L., Schratz, P., Jaeger, B. C., Lauer, S. A., Kapsner, L. A., Mücke, M., Wang, Z., Pulatov, D., Ganz, K., Funk, H., Harutyunyan, L., Camilleri, P., Kopper, P., Bender, A., Zhou, B., German, N., Koers, L., Nazarova, A., & Bischl, B. (2025). mlr3extralearners: Expanding the mlr3 ecosystem with community-driven learner integration. Journal of Open Source Software, 10(115), 8331. doi:10.21105/joss.08331\nPreprints\nFunk, H., Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. ESS Open Archive, 40, essoar-173627220."
   },
   {
     "objectID": "publications.html#conferences",
     "href": "publications.html#conferences",
     "title": "Publications",
     "section": "Conferences",
-    "text": "Conferences\nConference papers\nScholbeck, C.A., Funk, H., & Casalicchio, G. (2023). Algorithm-Agnostic Feature Attributions for Clustering. In: Longo, L. (eds) Explainable Artificial Intelligence. xAI 2023. Communications in Computer and Information Science, vol 1901. Springer, Cham. doi:10.1007/978-3-031-44064-9_13\nFunk, H., Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., & Mittermeier, M. (2021). Towards an automated classification of Hess-Brezowsky’s atmospheric circulation patterns “Tief Mitteleuropa” and “Trog Mitteleuropa” using deep learning methods. In Environmental Informatics: Adjunct Proceedings of the 35th EnviroInfo Conference. Shaker Verlag. doi:10.2370/9783844083293\nPresentations & posters\nFunk, H., Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., & Mittermeier, M. (2026, May 3–8). Uncertainty-Aware AI Forecasting of European Droughts: The Role of Internal Climate Variability. EGU General Assembly 2026, Vienna, Austria & Online. doi:10.5194/egusphere-egu26-10474\nFunk, H., Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. AGU Fall Meeting Abstracts, Vol. 2024, A54A-05.\nFunk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2024, July 23). Bias correction: Adjustment of climate model outputs to historical data. Workshop on Dependence Models, Vines, and Their Applications, Garching, Germany.\nSasse, A., Funk, H., Böhnisch, A., & Ludwig, R. (2024). Droughts in Central Europe: Assessing their characteristics and future dynamics in a hydroclimatic single-model large ensemble. AGU Fall Meeting Abstracts, H41I-0652.\nFunk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2023, September 25–29). Evaluating the structure of bias-corrected climate variables. International Conference on Regional Climate: CORDEX 2023 (ICRC-CORDEX 2023), Trieste, Italy.\nMeier, T., Paschan, N., Böhnisch, A., Funk, H., Sasse, A., & Küchenhoff, H. (2023, July 16–21). Analysis of climatological drivers of low-flow events in hydrological Bavaria using large-ensemble climate projections. In Proceedings of the 37th International Workshop on Statistical Modelling (IWSM), Dortmund, Germany."
+    "text": "Conferences\nConference papers\nScholbeck, C. A.*, Funk, H.*, & Casalicchio, G. (2023). Algorithm-agnostic feature attributions for clustering. In L. Longo (Ed.), Explainable Artificial Intelligence (xAI 2023), CCIS 1901, pp. 217–240. Springer, Cham. doi:10.1007/978-3-031-44064-9_13\nFunk, H., Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., & Mittermeier, M. (2021). Towards an automated classification of Hess-Brezowsky’s atmospheric circulation patterns “Tief Mitteleuropa” and “Trog Mitteleuropa” using deep learning methods. In Environmental Informatics: Adjunct Proceedings of the 35th EnviroInfo Conference. Shaker Verlag. doi:10.2370/9783844083293\nPresentations & posters\nFunk, H., Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., & Mittermeier, M. (2026, May 3–8). Uncertainty-aware AI forecasting of European droughts: The role of internal climate variability. EGU General Assembly 2026, Vienna, Austria & Online. doi:10.5194/egusphere-egu26-10474\nFunk, H., Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. AGU Fall Meeting Abstracts, Vol. 24, A54A-05.\nFunk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2024, July 23). Bias correction: Adjustment of climate model outputs to historical data. Workshop on Dependence Models, Vines, and Their Applications, Garching, Germany.\nSasse, A., Funk, H., Böhnisch, A., & Ludwig, R. (2024). Droughts in Central Europe: Assessing their characteristics and future dynamics in a hydroclimatic single-model large ensemble. AGU Fall Meeting Abstracts, H41I-0652.\nFunk, H., Küchenhoff, H., Ludwig, R., & Nagler, T. (2023, September 25–29). Evaluating the structure of bias-corrected climate variables. International Conference on Regional Climate: CORDEX 2023 (ICRC-CORDEX 2023), Trieste, Italy.\nMeier, T., Paschan, N., Böhnisch, A., Funk, H., Sasse, A., & Küchenhoff, H. (2023, July 16–21). Analysis of climatological drivers of low-flow events in hydrological Bavaria using large-ensemble climate projections. In Proceedings of the 37th International Workshop on Statistical Modelling (IWSM), Dortmund, Germany."
   },
   {
     "objectID": "publications.html#code",
     "href": "publications.html#code",
     "title": "Publications",
     "section": "Code",
-    "text": "Code\nVBC: vine copula bias correction for climate data. Corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.\nFACT: Feature Attributions for Clustering. Transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)\nFuzzyDBScan: fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)\n\nFind the most up-to-date list on ResearchGate. A few of the contributions here fall outside climate science: they come out of my work advising researchers through StaBLab, LMU’s statistical consulting unit."
+    "text": "Code\nVBC: vine copula based bias correction for climate models (R package, version 1.0.0). Corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.\nFACT: Feature Attributions for Clustering. Transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)\nFuzzyDBScan: fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)"
+  },
+  {
+    "objectID": "publications.html#seminar-books",
+    "href": "publications.html#seminar-books",
+    "title": "Publications",
+    "section": "Seminar books",
+    "text": "Seminar books\nFunk, H., & Küchenhoff, H. (2026). Climate and statistics III. GitHub Pages. henrifnk.github.io/Seminar_ClimateNStatistics26\nFunk, H., Sasse, A., Küchenhoff, H., & Ludwig, R. (2025). Climate and statistics II. GitHub Pages. henrifnk.github.io/Seminar_ClimateNStatistics2425\nKüchenhoff, H., & Funk, H. (2024). Climate and statistics. GitHub Pages. henrifnk.github.io/Seminar_ClimateNStatistics\n\n* shared first authorship.\nFind the most up-to-date list on ResearchGate or Google Scholar. A few of the contributions here fall outside climate science: they come out of my work advising researchers through StaBLab, LMU’s statistical consulting unit."
   }
 ]
