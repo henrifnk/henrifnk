@@ -2,37 +2,39 @@
 title: "Publications"
 ---
 
+[Download full list of publications (PDF)](files/Publications_HenriFunk.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"}
+
 ## Papers
 
 **Peer-reviewed journal articles**
 
-Gruber, C., **Funk, H.**, Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). Capturing Aleatoric Uncertainty in Climate Models. *Environmetrics*, 37(5), e70108. [doi:10.1002/env.70108](https://doi.org/10.1002/env.70108)
+Gruber, C.\*, **Funk, H.**\*, Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). Capturing aleatoric uncertainty in climate models. *Environmetrics*, 37(5). [doi:10.1002/env.70108](https://doi.org/10.1002/env.70108)
 
-Paßlack, N., Veit, H., **Funk, H.**, Zentek, J., & Schuchardt, S. (2026). Impact of a Dietary Fish Oil Supplementation on the Plasma Lipidome of Healthy Adult Cats. *Metabolites.*
+Paßlack, N., Veit, H., **Funk, H.**, Zentek, J., & Schuchardt, S. (2026). Impact of a dietary fish oil supplementation on the plasma lipidome of healthy adult cats. *Metabolites*, 16(6), 427. [doi:10.3390/metabo16060427](https://doi.org/10.3390/metabo16060427)
 
-Lonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., **Funk, H.**, ... & Olivieri, M. HAEMFIX: Impact of Switching From SHL-FIX to EHL-FIX in Patients With Haemophilia B. *Haemophilia: Official Journal of the World Federation of Hemophilia.* (in press)
+Lonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., **Funk, H.**, Hölz, J., Holzapfel, J., Juranek, S., Lieftüchter, V., Bidlingmaier, C., & Olivieri, M. (2026). HAEMFIX: Impact of switching from SHL-FIX to EHL-FIX in patients with haemophilia B. *Haemophilia*, 32(1), 55–62. [doi:10.1111/hae.70157](https://doi.org/10.1111/hae.70157)
 
-**Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. *Journal of the Royal Statistical Society Series C: Applied Statistics*, qlaf044.
+**Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. [doi:10.1093/jrsssc/qlaf044](https://doi.org/10.1093/jrsssc/qlaf044)
 
-Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., ... **Funk, H.**, ... Bischl, B., & Nazarova, A. (2025). mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration. *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
+Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., Schneider, L., Burk, L., Schratz, P., Jaeger, B. C., Lauer, S. A., Kapsner, L. A., Mücke, M., Wang, Z., Pulatov, D., Ganz, K., **Funk, H.**, Harutyunyan, L., Camilleri, P., Kopper, P., Bender, A., Zhou, B., German, N., Koers, L., Nazarova, A., & Bischl, B. (2025). mlr3extralearners: Expanding the mlr3 ecosystem with community-driven learner integration. *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
 
 **Preprints**
 
-**Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. *ESS Open Archive eprints*, 40, essoar-173627220.
+**Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. *ESS Open Archive*, 40, essoar-173627220.
 
 ## Conferences
 
 **Conference papers**
 
-Scholbeck, C.A., **Funk, H.**, & Casalicchio, G. (2023). Algorithm-Agnostic Feature Attributions for Clustering. In: Longo, L. (eds) *Explainable Artificial Intelligence. xAI 2023.* Communications in Computer and Information Science, vol 1901. Springer, Cham. [doi:10.1007/978-3-031-44064-9_13](https://doi.org/10.1007/978-3-031-44064-9_13)
+Scholbeck, C. A.\*, **Funk, H.**\*, & Casalicchio, G. (2023). Algorithm-agnostic feature attributions for clustering. In L. Longo (Ed.), *Explainable Artificial Intelligence (xAI 2023)*, CCIS 1901, pp. 217–240. Springer, Cham. [doi:10.1007/978-3-031-44064-9_13](https://doi.org/10.1007/978-3-031-44064-9_13)
 
 **Funk, H.**, Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., & Mittermeier, M. (2021). Towards an automated classification of Hess-Brezowsky's atmospheric circulation patterns "Tief Mitteleuropa" and "Trog Mitteleuropa" using deep learning methods. In *Environmental Informatics: Adjunct Proceedings of the 35th EnviroInfo Conference.* Shaker Verlag. [doi:10.2370/9783844083293](https://doi.org/10.2370/9783844083293)
 
 **Presentations & posters**
 
-**Funk, H.**, Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., & Mittermeier, M. (2026, May 3–8). Uncertainty-Aware AI Forecasting of European Droughts: The Role of Internal Climate Variability. *EGU General Assembly 2026*, Vienna, Austria & Online. [doi:10.5194/egusphere-egu26-10474](https://doi.org/10.5194/egusphere-egu26-10474)
+**Funk, H.**, Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., & Mittermeier, M. (2026, May 3–8). Uncertainty-aware AI forecasting of European droughts: The role of internal climate variability. *EGU General Assembly 2026*, Vienna, Austria & Online. [doi:10.5194/egusphere-egu26-10474](https://doi.org/10.5194/egusphere-egu26-10474)
 
-**Funk, H.**, Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. *AGU Fall Meeting Abstracts*, Vol. 2024, A54A-05.
+**Funk, H.**, Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. *AGU Fall Meeting Abstracts*, Vol. 24, A54A-05.
 
 **Funk, H.**, Küchenhoff, H., Ludwig, R., & Nagler, T. (2024, July 23). Bias correction: Adjustment of climate model outputs to historical data. *Workshop on Dependence Models, Vines, and Their Applications*, Garching, Germany.
 
@@ -44,12 +46,22 @@ Meier, T., Paschan, N., Böhnisch, A., **Funk, H.**, Sasse, A., & Küchenhoff, H
 
 ## Code
 
-[**VBC**](https://github.com/henrifnk/VBC): vine copula bias correction for climate data. Corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.
+[**VBC**](https://henrifnk.github.io/VBC/): vine copula based bias correction for climate models (R package, version 1.0.0). Corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.
 
 [**FACT**](https://github.com/henrifnk/FACT): Feature Attributions for Clustering. Transfers algorithm-agnostic interpretability methods to clustering tasks. Accompanies the xAI 2023 paper above. (Formerly on CRAN; source now maintained on GitHub.)
 
 [**FuzzyDBScan**](https://github.com/henrifnk/FuzzyDBScan): fuzzy clustering with DBScan. (Formerly on CRAN; source now maintained on GitHub.)
 
+## Seminar books
+
+Funk, H., & Küchenhoff, H. (2026). *Climate and statistics III*. GitHub Pages. [henrifnk.github.io/Seminar_ClimateNStatistics26](https://henrifnk.github.io/Seminar_ClimateNStatistics26/)
+
+Funk, H., Sasse, A., Küchenhoff, H., & Ludwig, R. (2025). *Climate and statistics II*. GitHub Pages. [henrifnk.github.io/Seminar_ClimateNStatistics2425](https://henrifnk.github.io/Seminar_ClimateNStatistics2425/)
+
+Küchenhoff, H., & Funk, H. (2024). *Climate and statistics*. GitHub Pages. [henrifnk.github.io/Seminar_ClimateNStatistics](https://henrifnk.github.io/Seminar_ClimateNStatistics/)
+
 ------------------------------------------------------------------------
 
-Find the most up-to-date list on [ResearchGate](https://www.researchgate.net/profile/Henri-Funk). A few of the contributions here fall outside climate science: they come out of my work advising researchers through [StaBLab](https://www.stat.lmu.de/stablab/en/), LMU's statistical consulting unit.
+\* shared first authorship.
+
+Find the most up-to-date list on [ResearchGate](https://www.researchgate.net/profile/Henri-Funk) or [Google Scholar](https://scholar.google.com/citations?user=-1kc-pMAAAAJ&hl=de). A few of the contributions here fall outside climate science: they come out of my work advising researchers through [StaBLab](https://www.stat.lmu.de/stablab/en/), LMU's statistical consulting unit.
