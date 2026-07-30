@@ -2,7 +2,9 @@
 title: "CV"
 ---
 
-[Download full CV (PDF)](files/CV_HenriFunk.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"}
+[Download full CV (PDF)](files/CV_HenriFunk.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"} [Download list of publications (PDF)](files/Publications_HenriFunk.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"}
+
+I am a PhD candidate in Statistics at LMU Munich, supervised by [Prof. Dr. Helmut Küchenhoff](https://www.lmu.de/mzn/de/mitglieder/kontaktseite/helmut-kuechenhoff-bc664f45.html) and working with [Prof. Dr. Ralf Ludwig's group](https://www.geo.lmu.de/geographie/de/forschung/physische-geographie-und-nexusforschung/ueber-uns/ag-ludwig/) for Applied Physical Geography and Environmental Modelling. My cumulative dissertation develops statistical methods for decomposing climate model uncertainty into bias, internal variability and forced signal, and applies them to drought characterisation and forecasting in Europe: a vine-copula-based multivariate bias correction, a generalised additive model framework for internal variability, and an uncertainty-aware deep-learning drought forecasting system. Alongside my research I teach statistics and R, and I advise researchers through [StaBLab](https://www.stat.lmu.de/stablab/en/), LMU's statistical consulting unit.
 
 ## Education
 
@@ -13,7 +15,7 @@ since 2022<br>Munich
 
 ::: entry-body
 **Ludwig Maximilian University of Munich**\
-PhD Candidate at the Chair of Statistics, supervised by [Prof. Dr. Helmut Küchenhoff](https://www.lmu.de/mzn/de/mitglieder/kontaktseite/helmut-kuechenhoff-bc664f45.html), in cooperation with [Prof. Dr. Ralf Ludwig's working group](https://www.geo.lmu.de/geographie/de/forschung/physische-geographie-und-nexusforschung/ueber-uns/ag-ludwig/) for Applied Physical Geography and Environmental Modeling.
+PhD Candidate at the [Department of Statistics](https://www.stat.lmu.de/en/), supervised by [Prof. Dr. Helmut Küchenhoff](https://www.lmu.de/mzn/de/mitglieder/kontaktseite/helmut-kuechenhoff-bc664f45.html), in cooperation with [Prof. Dr. Ralf Ludwig's working group](https://www.geo.lmu.de/geographie/de/forschung/physische-geographie-und-nexusforschung/ueber-uns/ag-ludwig/) for Applied Physical Geography and Environmental Modeling, [Department of Geography](https://www.geo.lmu.de/geographie/en/). Affiliated with the [Munich Center for Machine Learning (MCML)](https://mcml.ai/research/groups/kuechenhoff/) through the Küchenhoff research group.
 :::
 :::::
 
@@ -24,7 +26,7 @@ PhD Candidate at the Chair of Statistics, supervised by [Prof. Dr. Helmut Küche
 
 ::: entry-body
 **Ludwig Maximilian University of Munich**\
-Master of Science in Statistics
+Master of Science in Statistics (Statistik mit wirtschafts- und sozialwissenschaftlicher Ausrichtung)
 :::
 :::::
 
@@ -57,11 +59,22 @@ Semester abroad
 
 ::: entry-body
 **Hochschule Pforzheim**\
-Bachelor of Science in BW / Market Research
+Bachelor of Science in Business Administration / Market Research
 :::
 :::::
 
 ## Experience
+
+::::: entry
+::: entry-date
+from 10/2026<br>Munich
+:::
+
+::: entry-body
+**BayWaT-AI Project**\
+Researcher: deep-learning models for river water temperatures and riverine heatwaves in Bavaria
+:::
+:::::
 
 ::::: entry
 ::: entry-date
@@ -81,7 +94,7 @@ since 2022<br>Munich
 
 ::: entry-body
 **Teaching**\
-Statistical modelling & seminars: courses for Bachelor and Master students in Statistics; Statistics for Geophysicists lecture and exercise (WS 25/26)
+Climate & Statistics seminars for Bachelor and Master students; Statistics for Geophysicists lecture and exercise (WS 25/26); R-Kurs at StaBLab. See [Teaching](teaching.qmd)
 :::
 :::::
 
@@ -102,7 +115,7 @@ Teaching assistant, R and statistics
 :::
 
 ::: entry-body
-**ClimExII Project**\
+**ClimEx II Project**\
 Climate modelling, drought prediction and bias correction
 :::
 :::::
@@ -117,6 +130,13 @@ Climate modelling, drought prediction and bias correction
 Student assistant, `mlr3` package and teaching
 :::
 :::::
+
+## Affiliations
+
+- [Department of Statistics](https://www.stat.lmu.de/en/), LMU Munich, Ludwigstraße 33, 80539 Munich, Germany
+- [Statistical Consulting Unit (StaBLab)](https://www.stat.lmu.de/stablab/en/), LMU Munich, Ludwigstraße 33, 80539 Munich, Germany
+- [Department of Geography](https://www.geo.lmu.de/geographie/en/), LMU Munich, Luisenstraße 37, 80333 Munich, Germany
+- [Munich Center for Machine Learning (MCML)](https://mcml.ai/research/groups/kuechenhoff/), Oettingenstraße 67, 80538 Munich, Germany
 
 ## Software & tools
 
