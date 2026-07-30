@@ -24,7 +24,7 @@ A seminar for Bachelor and Master students in Statistics on statistical and mach
 
 *since 2022 — LMU Munich*
 
-Co-instructor of ["Introduction to Statistical Data Analysis (with R)"](https://www.stat.lmu.de/stablab/de/lehrveranstaltungen/r-kurs/), StaBLab's biannual block course (February/March and September/October). Over a compact block, participants from across LMU — students and doctoral candidates, most of them from non-statistical disciplines — learn to handle their own data in R: import and wrangling, graphics, descriptive summaries, and the standard inferential and regression tools they need for their theses and research projects.
+Lecturer of ["Introduction to Statistical Data Analysis (with R)"](https://www.stat.lmu.de/stablab/de/lehrveranstaltungen/r-kurs/), StaBLab's biannual block course (February/March and September/October). Over a compact block, participants from across LMU — students and doctoral candidates, most of them from non-statistical disciplines — learn to handle their own data in R: import and wrangling, graphics, descriptive summaries, and the standard inferential and regression tools they need for their theses and research projects.
 
 ## Teaching Assistant, Essential Data Science Training GmbH
 
