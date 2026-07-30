@@ -4,15 +4,15 @@ title: "Teaching"
 
 ## Statistics for Geophysicists
 
-*Lecture & exercise, WS 25/26 — Department of Statistics & Department of Earth and Environmental Sciences, LMU Munich*
+*Lecture & exercise, WS 25/26 — Department of Statistics & [Department of Earth and Environmental Sciences](https://www.geo.lmu.de/geoumwelt/de/department/), LMU Munich*
 
-A full introduction to statistics for students of Geophysics, spanning descriptive statistics, inductive statistics (probability, estimation, confidence intervals, hypothesis testing) and statistical modelling (linear and generalised linear models). A second strand covers geostatistical methods for spatially and temporally structured data. Every topic is treated both in theory and in application: the lecture develops the methods, and the accompanying exercise puts them to work in R on geoscientific data, so that students leave able to run and interpret an analysis themselves rather than only recognise the formulas.
+A full introduction to statistics for students of the [Geophysics Master](https://www.geo.lmu.de/geoumwelt/en/studies/degree-programs/master-geophysics/), spanning descriptive statistics, inductive statistics (probability, estimation, confidence intervals, hypothesis testing) and statistical modelling (linear and generalised linear models). A second strand covers geostatistical methods for spatially and temporally structured data. Every topic is treated both in theory and in application: the lecture develops the methods, and the accompanying exercise puts them to work in R on geoscientific data, so that students leave able to run and interpret an analysis themselves rather than only recognise the formulas.
 
 ## Climate & Statistics seminars
 
 *since 2022 — Department of Statistics, LMU Munich*
 
-A seminar for Bachelor and Master students in Statistics on statistical and machine learning methods in climate science. Students work in small teams on a topic of current research interest, and each edition is published collaboratively as an open seminar book: every chapter is written, reviewed and revised by the participants, so the seminar doubles as an exercise in scientific writing and reproducible reporting. Topics have ranged from internal climate variability, compound events and copula models to neural hydrology, riverine heatwaves, uncertainty quantification and climate tipping points.
+A seminar for Bachelor and Master students in Statistics on statistical and machine learning methods in climate science. Students work in teams of two or alone on a topic of current research interest, and each edition is published collaboratively as an open seminar book: every chapter is written, reviewed and revised by the participants, so the seminar doubles as an exercise in scientific writing and reproducible reporting. Topics have ranged from internal climate variability, compound events and copula models to neural hydrology, riverine heatwaves, uncertainty quantification and climate tipping points.
 
 **Seminar books**
 
