@@ -5,39 +5,23 @@ title: "Projects"
 ## BayWaT-AI <span class="badge-soon">starting Oct 2026</span>
 
 ::: {.highlight-box}
-**River water temperatures and riverine heatwaves in Bavaria.** Deep-learning models to predict stream water temperatures and detect riverine heatwave events under climate change, building on hydrological and meteorological data across Bavarian catchments.
+**Process- and AI-based modelling of water temperature in Bavarian rivers, today and tomorrow — tools for Bavarian water management.**
 
 **Funder:** Bavarian State Office for Environment (LfU).
 :::
+
+Rising water temperatures are one of the central climate risks for Bavarian rivers. Warmer water holds less oxygen, accelerates microbial turnover and nutrient and pollutant reactions, and reduces the self-purification capacity of a river — effects that are sharpest exactly during low-flow phases, when temperature and sensitivity to additional stressors rise together. The consequences reach from aquatic ecosystems (temperature-sensitive species such as trout, grayling and brook lamprey, algal blooms, fish kills) to energy supply, since many thermal power plants rely on river water for cooling and face regulatory limits on return temperatures.
+
+BayWaT-AI addresses this along two complementary modelling strands. The first is process-based: energy-balance models of river temperature (candidates include HeatSource and CE-QUAL-W2) are benchmarked on selected Bavarian rivers for their physical fidelity, their coupling to WaSiM discharge simulations and the ClimEx ensembles, and their operational usability in an agency setting. The second is data-driven: deep learning models, in particular recurrent architectures such as LSTMs together with explainable-AI variants, trained on the high-resolution discharge time series that WaSiM provides for 98 river basin gauges across Bavaria — a setup already demonstrated prototypically within ClimEx II.
+
+My part sits mainly on the data-driven and uncertainty side. Concretely, this means comparing model skill, robustness and spatial transferability of both strands; developing regionalisation and transfer-learning strategies so that catchments with sparse or short measurement records can still be modelled credibly; and building a layered uncertainty framework from ensemble-spread analysis, variance and sensitivity studies, and XAI-based attribution of the drivers that govern thermal dynamics. Spatially explicit predictors — land use and sealing, urban heat islands, anthropogenic heat inputs, riparian shading, and morphological parameters such as width, depth, bed structure and flow velocity — are integrated explicitly, so that regional differences in the vulnerability of rivers can be resolved rather than averaged away. A further question is what is lost by using daily instead of sub-daily climate data: the sub-daily ClimEx ensemble and the daily Bavarian climate ensemble are compared systematically to quantify how much of the short-lived temperature peaks and extreme thermal events disappears with coarser temporal resolution.
+
+Beyond the projections, the project develops a prototype short-term forecasting model using current meteorological inputs, hydrological state and real-time discharge, evaluated in pilot operation for its usefulness in early-warning and alerting processes. All of this converges on a deliverable handed over to the LfU: a runnable, maintainable user tool that combines long-term SSP-based projections, process-based components, AI-based forecasts and uncertainty quantification behind interfaces to the Bavarian climate ensemble and to hydrological model output, so the agency can operate and extend it independently.
 
 ## ClimEx II
 
 *2022 – 2025*
 
-One of my largest projects to date. [ClimEx II](https://www.lfu.bayern.de/wasser/klimawandel_wasserhaushalt/projekte/climex2/index.htm) studies low-water extremes and drought under climate and land-use change across Bavaria (2020–2025), run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centered on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas ([VBC](https://github.com/henrifnk/VBC)), the application of a European standardised drought index, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. For scientific contributions, see the [publication](publications.qmd).
+One of my largest projects to date. [ClimEx II](https://www.lfu.bayern.de/wasser/klimawandel_wasserhaushalt/projekte/climex2/index.htm) studies low-water extremes and drought under climate and land-use change across Bavaria (2020–2025), run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centered on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas ([VBC](https://github.com/henrifnk/VBC)), the application of a European standardised drought index, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. For scientific contributions, see the [publications](publications.qmd).
 
 **Funders:** Bavarian State Ministry for the Environment and Consumer Protection, and the Bavarian State Office for Environment (LfU).
-
-## Climate and Statistic
-
-*since 2024*
-
-A comprehension of machine learning and statistical methods in climate modelling. Supervising a collaborative student project in a seminar at LMU. Seminar books: [2024/25](https://henrifnk.github.io/Seminar_ClimateNStatistics2425/) and [2023/24](https://henrifnk.github.io/Seminar_ClimateNStatistics/).
-
-## Towards Algorithm-Agnostic Interpretability in Clustering
-
-*2022/23*
-
-Master thesis in Interpretable Machine Learning: transfer and extension of implementation methods to clustering tasks. See the [publication](publications.qmd) and the package [FACT](https://github.com/henrifnk/FACT).
-
-## Automated classification of atmospheric circulation patterns using deep learning methods
-
-*2021*
-
-Development of a [Python package](https://github.com/henrifnk/climex) using PyTorch; publication and presentation at the EnviroInfo conference. 1st place at bidt Innovation Laboratories.
-
-## The No-U-Turn Sampler with dual averaging
-
-*2021*
-
-Seminar project on Bayesian inference.
