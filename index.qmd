@@ -48,7 +48,7 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 </div>
 
 - Uncertainty decomposition and quantification (aleatoric/epistemic)
-- Multivariate bias correction & copula modelling
+- Copula modelling of multivariate dependence
 - Generalised additive models
 - Deep learning for probabilistic forecasting
 - Explainable / algorithm-agnostic machine learning
@@ -64,6 +64,7 @@ My work centers on droughts and climate extremes: decomposing climate model unce
 </div>
 
 - Climate models, specifically single-model large ensembles (SMILEs)
+- Multivariate bias correction of climate model output
 - Droughts and compound climate extremes
 - Internal variability
 - European drought hotspots under future warming

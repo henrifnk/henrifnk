@@ -1,0 +1,169 @@
+% Source for files/Publications_HenriFunk.pdf
+% Build:  pdflatex Publications_HenriFunk.tex  (run twice)
+\documentclass[11pt,a4paper]{article}
+
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{charter}
+\usepackage{microtype}
+\usepackage[margin=2.4cm,top=2.2cm,bottom=2.2cm]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\newcommand{\me}{\textbf{Funk, H.}}
+\newcommand{\doi}[1]{\href{https://doi.org/#1}{doi:#1}}
+
+\newcommand{\doitext}[2]{\href{https://doi.org/#1}{doi:#2}}
+\newlist{pubs}{enumerate}{1}
+\setlist[pubs]{label={[\arabic*]},leftmargin=*,labelsep=0.6em,%
+  itemsep=0.55em,topsep=0.2em,parsep=0pt}
+% A rubric closes the running list, prints a heading and resumes the numbering.
+% Reserve vertical space (needspace is not in the local TeX tree), so a rubric
+% never ends up alone at the foot of a page.
+\makeatletter
+\newcommand{\needspacing}[1]{\par\begingroup
+  \setlength{\dimen@}{#1}%
+  \vskip\z@\@plus\dimen@
+  \penalty -100%
+  \vskip\z@\@plus -\dimen@
+  \endgroup}
+\makeatother
+\newcommand{\rubric}[1]{%
+  \end{pubs}\vspace{0.9em}\needspacing{6\baselineskip}%
+  {\large\bfseries #1}\par\vspace{0.1em}%
+  \begin{pubs}[resume]}
+\newcommand{\firstrubric}[1]{%
+  {\large\bfseries #1}\nopagebreak\par\vspace{0.1em}\nopagebreak\begin{pubs}}
+% Links shown as plain text rather than in typewriter, as in earlier versions.
+\newcommand{\weblink}[2]{\href{#1}{#2}}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Henri Funk}\\[0.35em]
+  {\large Academic Curriculum Vitae}\\[0.5em]
+  \href{mailto:H.Funk@lmu.de}{H.Funk@lmu.de} $\vert$
+  \href{https://scholar.google.com/citations?user=-1kc-pMAAAAJ&hl=de}{Google Scholar} $\vert$
+  \href{https://henrifnk.github.io/henrifnk}{Homepage} $\vert$
+  September 2026
+\end{center}
+
+\vspace{0.6em}
+
+\firstrubric{Peer-Reviewed Journal Articles}
+
+\item Gruber, C.*, \me*, Mittermeier, M., Küchenhoff, H., \& Kauermann, G. (2026). Capturing
+aleatoric uncertainty in climate models. \textit{Environmetrics}, 37(5),
+\doi{10.1002/env.70108}
+
+\item Paßlack, N., Veit, H., \me, Zentek, J., \& Schuchardt, S. (2026). Impact of a dietary
+fish oil supplementation on the plasma lipidome of healthy adult cats. \textit{Metabolites},
+16(6), 427. \doi{10.3390/metabo16060427}
+
+\item Lonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., \me, Hölz, J.,
+Holzapfel, J., Juranek, S., Lieftüchter, V., Bidlingmaier, C., \& Olivieri, M. (2026).
+HAEMFIX: Impact of switching from SHL-FIX to EHL-FIX in patients with haemophilia B.
+\textit{Haemophilia}, 32(1), 55--62. \doi{10.1111/hae.70157}
+
+\item \me, Ludwig, R., Küchenhoff, H., \& Nagler, T. (2025). Towards more realistic climate
+model outputs: A multivariate bias correction based on zero-inflated vine copulas.
+\textit{Journal of the Royal Statistical Society: Series C (Applied Statistics)},
+\doi{10.1093/jrsssc/qlaf044}.
+
+\item Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., Schneider, L.,
+Burk, L., Schratz, P., Jaeger, B. C., Lauer, S. A., Kapsner, L. A., Mücke, M., Wang, Z.,
+Pulatov, D., Ganz, K., \me, Harutyunyan, L., Camilleri, P., Kopper, P., Bender, A., Zhou, B.,
+German, N., Koers, L., Nazarova, A., \& Bischl, B. (2025). mlr3extralearners: Expanding the
+mlr3 ecosystem with community-driven learner integration. \textit{Journal of Open Source
+Software}, 10(115), 8331. \doi{10.21105/joss.08331}
+
+\rubric{Preprints}
+
+\item \me, Sasse, A., Böhnisch, A., Gruber, C., Ludwig, R., Küchenhoff, H., \& Mittermeier, M.
+(2026). A near-certain late-summer drought hotspot across southern and eastern Europe under
+global warming. \textit{Research Square}, version 2. \doi{10.21203/rs.3.rs-10585537/v2}.
+Manuscript under review at \textit{npj Natural Hazards}.
+
+\item \me, Gruber, C., Kauermann, G., Küchenhoff, H., \& Mittermeier, M. (2026). Probabilistic
+deep learning for drought forecasting: Role of internal climate variability.
+\textit{arXiv}:2608.01864 [stat.AP]. \doi{10.48550/arXiv.2608.01864}.
+Manuscript under review at \textit{Environmental Research Letters}.
+
+\item \me, Ludwig, R., Küchenhoff, H., \& Nagler, T. (2025). Modelling climate variables at
+high temporal resolution. \textit{ESS Open Archive}, 40, essoar-173627220.
+
+\rubric{Conference Papers}
+
+\item Scholbeck, C. A.*, \me*, \& Casalicchio, G. (2023). Algorithm-agnostic feature
+attributions for clustering. In L. Longo (Ed.), \textit{Explainable Artificial Intelligence
+(xAI 2023)}, CCIS 1901, pp. 217--240. Springer, Cham. \doitext{10.1007/978-3-031-44064-9_13}{10.1007/978-3-031-44064-9\_13}
+
+\item \me, Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., \&
+Mittermeier, M. (2021). Towards an automated classification of Hess--Brezowsky's atmospheric
+circulation patterns ``Tief Mitteleuropa'' and ``Trog Mitteleuropa'' using deep learning
+methods. In \textit{Environmental Informatics: Adjunct Proceedings of the 35th EnviroInfo
+Conference}. Shaker Verlag. \doi{10.2370/9783844083293}
+
+\rubric{Conference Abstracts, Presentations \& Posters}
+
+\item \me, Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., \& Mittermeier, M.
+(2026, May 3--8). Uncertainty-aware AI forecasting of European droughts: The role of internal
+climate variability. \textit{EGU General Assembly 2026}, Vienna, Austria \& Online.
+\doi{10.5194/egusphere-egu26-10474}
+
+\item \me, Boehnisch, A., Ludwig, R., Küchenhoff, H., \& Nagler, T. (2024, December).
+Introducing a novel, multivariate correction for zero-inflated variables for climate impact
+assessment at a high temporal resolution. \textit{AGU Fall Meeting Abstracts}, Vol. 24,
+A54A-05.
+
+\item \me, Küchenhoff, H., Ludwig, R., \& Nagler, T. (2024, July 23). Bias correction:
+Adjustment of climate model outputs to historical data. \textit{Workshop on Dependence Models,
+Vines, and Their Applications}, Garching, Germany.
+
+\item Sasse, A., \me, Böhnisch, A., \& Ludwig, R. (2024). Droughts in Central Europe:
+Assessing their characteristics and future dynamics in a hydroclimatic single-model large
+ensemble. \textit{AGU Fall Meeting Abstracts}, H41I-0652.
+
+\item \me, Küchenhoff, H., Ludwig, R., \& Nagler, T. (2023, September 25--29). Evaluating the
+structure of bias-corrected climate variables. \textit{International Conference on Regional
+Climate: CORDEX 2023 (ICRC-CORDEX 2023)}, Trieste, Italy.
+
+\item Meier, T., Paschan, N., Böhnisch, A., \me, Sasse, A., \& Küchenhoff, H. (2023, July
+16--21). Analysis of climatological drivers of low-flow events in hydrological Bavaria using
+large-ensemble climate projections. In \textit{Proceedings of the 37th International Workshop
+on Statistical Modelling (IWSM)}, Dortmund, Germany.
+
+\rubric{Software}
+
+\item Funk, H. (2026). \textit{VBC: Vine Copula Based Bias Correction for Climate Models}.
+R package version 1.0.0, \weblink{https://henrifnk.github.io/VBC/}{henrifnk.github.io/VBC}.
+
+\item \textit{FACT: Feature Attributions for Clustering}. Transfers algorithm-agnostic
+interpretability methods to clustering tasks. Accompanies the xAI 2023 paper.
+\weblink{https://github.com/henrifnk/FACT}{github.com/henrifnk/FACT}
+
+\item \textit{FuzzyDBScan}: fuzzy clustering with DBScan.
+\weblink{https://github.com/henrifnk/FuzzyDBScan}{github.com/henrifnk/FuzzyDBScan}
+
+\rubric{Seminar Books}
+
+\item Küchenhoff, H., \& Funk, H. (2024). \textit{Climate and statistics}. GitHub Pages.
+\weblink{https://henrifnk.github.io/Seminar_ClimateNStatistics}{henrifnk.github.io/\allowbreak Seminar\_\allowbreak ClimateNStatistics}
+
+\item Funk, H., Sasse, A., Küchenhoff, H., \& Ludwig, R. (2025). \textit{Climate and
+statistics II}. GitHub Pages. \weblink{https://henrifnk.github.io/Seminar_ClimateNStatistics2425}{henrifnk.github.io/\allowbreak Seminar\_\allowbreak ClimateNStatistics2425}
+
+\item Funk, H., \& Küchenhoff, H. (2026). \textit{Climate and statistics III}. GitHub Pages.
+\weblink{https://henrifnk.github.io/Seminar_ClimateNStatistics26}{henrifnk.github.io/\allowbreak Seminar\_\allowbreak ClimateNStatistics26}
+
+\end{pubs}
+
+\vspace{1em}
+\rule{\linewidth}{0.4pt}\\[0.3em]
+\footnotesize * shared first authorship.
+
+\end{document}

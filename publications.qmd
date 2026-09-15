@@ -20,6 +20,10 @@ Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., Schnei
 
 **Preprints**
 
+**Funk, H.**, Sasse, A., Böhnisch, A., Gruber, C., Ludwig, R., Küchenhoff, H., & Mittermeier, M. (2026). A near-certain late-summer drought hotspot across southern and eastern Europe under global warming. *Research Square* (version 2). [doi:10.21203/rs.3.rs-10585537/v2](https://doi.org/10.21203/rs.3.rs-10585537/v2) — under review at *npj Natural Hazards*.
+
+**Funk, H.**, Gruber, C., Kauermann, G., Küchenhoff, H., & Mittermeier, M. (2026). Probabilistic deep learning for drought forecasting: Role of internal climate variability. *arXiv*:2608.01864 [stat.AP]. [doi:10.48550/arXiv.2608.01864](https://doi.org/10.48550/arXiv.2608.01864) — under review at *Environmental Research Letters*.
+
 **Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. *ESS Open Archive*, 40, essoar-173627220.
 
 ## Conferences
