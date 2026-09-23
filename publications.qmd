@@ -36,6 +36,8 @@ Scholbeck, C. A.\*, **Funk, H.**\*, & Casalicchio, G. (2023). Algorithm-agnostic
 
 **Presentations & posters**
 
+Gruber, C.\*, **Funk, H.**\*, Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026, September 9). Capturing aleatoric uncertainty in climate models. *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2026)*, Nectar Track, Naples, Italy.
+
 **Funk, H.**, Gruber, C., Kauermann, G., Küchenhoff, H., Ludwig, R., & Mittermeier, M. (2026, May 3–8). Uncertainty-aware AI forecasting of European droughts: The role of internal climate variability. *EGU General Assembly 2026*, Vienna, Austria & Online. [doi:10.5194/egusphere-egu26-10474](https://doi.org/10.5194/egusphere-egu26-10474)
 
 **Funk, H.**, Boehnisch, A., Ludwig, R., Küchenhoff, H., & Nagler, T. (2024, December). Introducing a novel, multivariate correction for zero-inflated variables for climate impact assessment at a high temporal resolution. *AGU Fall Meeting Abstracts*, Vol. 24, A54A-05.
