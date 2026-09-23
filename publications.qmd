@@ -2,11 +2,15 @@
 title: "Publications"
 ---
 
-[Download full list of publications (PDF)](files/Publications_HenriFunk.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"}
+::: {.social-links}
+<a href="files/Publications_HenriFunk.pdf" target="_blank"><i class="bi bi-file-earmark-pdf"></i> List of publications (PDF)</a>
+:::
 
 ## Papers
 
-**Peer-reviewed journal articles**
+### Peer-reviewed journal articles
+
+::: {.pub-list}
 
 Gruber, C.\*, **Funk, H.**\*, Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026). Capturing aleatoric uncertainty in climate models. *Environmetrics*, 37(5). [doi:10.1002/env.70108](https://doi.org/10.1002/env.70108)
 
@@ -18,23 +22,35 @@ Lonardi, J., Halimeh, S., von Mackensen, S., Kleinlein, L., Fleischer, J., **Fun
 
 Fischer, S., Zobolas, J., Sonabend, R., Becker, M., Lang, M., Binder, M., Schneider, L., Burk, L., Schratz, P., Jaeger, B. C., Lauer, S. A., Kapsner, L. A., Mücke, M., Wang, Z., Pulatov, D., Ganz, K., **Funk, H.**, Harutyunyan, L., Camilleri, P., Kopper, P., Bender, A., Zhou, B., German, N., Koers, L., Nazarova, A., & Bischl, B. (2025). mlr3extralearners: Expanding the mlr3 ecosystem with community-driven learner integration. *Journal of Open Source Software*, 10(115), 8331. [doi:10.21105/joss.08331](https://doi.org/10.21105/joss.08331)
 
-**Preprints**
+:::
 
-**Funk, H.**, Sasse, A., Böhnisch, A., Gruber, C., Ludwig, R., Küchenhoff, H., & Mittermeier, M. (2026). A near-certain late-summer drought hotspot across southern and eastern Europe under global warming. *Research Square* (version 2). [doi:10.21203/rs.3.rs-10585537/v2](https://doi.org/10.21203/rs.3.rs-10585537/v2) — under review at *npj Natural Hazards*.
+### Preprints
 
-**Funk, H.**, Gruber, C., Kauermann, G., Küchenhoff, H., & Mittermeier, M. (2026). Probabilistic deep learning for drought forecasting: Role of internal climate variability. *arXiv*:2608.01864 [stat.AP]. [doi:10.48550/arXiv.2608.01864](https://doi.org/10.48550/arXiv.2608.01864) — under review at *Environmental Research Letters*.
+::: {.pub-list}
 
-**Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. *ESS Open Archive*, 40, essoar-173627220.
+**Funk, H.**, Sasse, A., Böhnisch, A., Gruber, C., Ludwig, R., Küchenhoff, H., & Mittermeier, M. (2026). A near-certain late-summer drought hotspot across southern and eastern Europe under global warming. *Research Square* (version 2). [doi:10.21203/rs.3.rs-10585537/v2](https://doi.org/10.21203/rs.3.rs-10585537/v2) [under review · *npj Natural Hazards*]{.pub-status}
+
+**Funk, H.**, Gruber, C., Kauermann, G., Küchenhoff, H., & Mittermeier, M. (2026). Probabilistic deep learning for drought forecasting: Role of internal climate variability. *arXiv*:2608.01864 [stat.AP]. [doi:10.48550/arXiv.2608.01864](https://doi.org/10.48550/arXiv.2608.01864) [under review · *Environmental Research Letters*]{.pub-status}
+
+**Funk, H.**, Ludwig, R., Küchenhoff, H., & Nagler, T. (2025). Modelling climate variables at high temporal resolution. *ESS Open Archive*, 40, essoar-173627220. [doi:10.22541/essoar.173627220.04000722/v1](https://doi.org/10.22541/essoar.173627220.04000722/v1)
+
+:::
 
 ## Conferences
 
-**Conference papers**
+### Conference papers
+
+::: {.pub-list}
 
 Scholbeck, C. A.\*, **Funk, H.**\*, & Casalicchio, G. (2023). Algorithm-agnostic feature attributions for clustering. In L. Longo (Ed.), *Explainable Artificial Intelligence (xAI 2023)*, CCIS 1901, pp. 217–240. Springer, Cham. [doi:10.1007/978-3-031-44064-9_13](https://doi.org/10.1007/978-3-031-44064-9_13)
 
 **Funk, H.**, Becker, C., Hofheinz, A., Xi, G., Zhang, Y., Pfisterer, F., Weigert, M., & Mittermeier, M. (2021). Towards an automated classification of Hess-Brezowsky's atmospheric circulation patterns "Tief Mitteleuropa" and "Trog Mitteleuropa" using deep learning methods. In *Environmental Informatics: Adjunct Proceedings of the 35th EnviroInfo Conference.* Shaker Verlag. [doi:10.2370/9783844083293](https://doi.org/10.2370/9783844083293)
 
-**Presentations & posters**
+:::
+
+### Presentations & posters
+
+::: {.pub-list}
 
 Gruber, C.\*, **Funk, H.**\*, Mittermeier, M., Küchenhoff, H., & Kauermann, G. (2026, September 9). Capturing aleatoric uncertainty in climate models. *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2026)*, Nectar Track, Naples, Italy.
 
@@ -50,6 +66,8 @@ Sasse, A., **Funk, H.**, Böhnisch, A., & Ludwig, R. (2024). Droughts in Central
 
 Meier, T., Paschan, N., Böhnisch, A., **Funk, H.**, Sasse, A., & Küchenhoff, H. (2023, July 16–21). Analysis of climatological drivers of low-flow events in hydrological Bavaria using large-ensemble climate projections. In *Proceedings of the 37th International Workshop on Statistical Modelling (IWSM)*, Dortmund, Germany.
 
+:::
+
 ## Code
 
 [**VBC**](https://henrifnk.github.io/VBC/): vine copula based bias correction for climate models (R package, version 1.0.0). Corrects the multivariate distribution of heavy-tailed, zero-inflated and continuous climate variables. Accompanies the JRSS-C paper above.
@@ -60,11 +78,14 @@ Meier, T., Paschan, N., Böhnisch, A., **Funk, H.**, Sasse, A., & Küchenhoff, H
 
 ## Seminar books
 
+::: {.pub-list}
 Funk, H., & Küchenhoff, H. (2026). *Climate and statistics III*. GitHub Pages. [henrifnk.github.io/Seminar_ClimateNStatistics26](https://henrifnk.github.io/Seminar_ClimateNStatistics26/)
 
 Funk, H., Sasse, A., Küchenhoff, H., & Ludwig, R. (2025). *Climate and statistics II*. GitHub Pages. [henrifnk.github.io/Seminar_ClimateNStatistics2425](https://henrifnk.github.io/Seminar_ClimateNStatistics2425/)
 
 Küchenhoff, H., & Funk, H. (2024). *Climate and statistics*. GitHub Pages. [henrifnk.github.io/Seminar_ClimateNStatistics](https://henrifnk.github.io/Seminar_ClimateNStatistics/)
+
+:::
 
 ------------------------------------------------------------------------
 

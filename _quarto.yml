@@ -6,6 +6,11 @@ website:
   title: "Henri Funk"
   description: "PhD Candidate in Statistics, LMU Munich"
   site-url: "https://henrifnk.github.io/henrifnk"
+  favicon: images/favicon.svg
+  image: images/profile.jpg
+  open-graph: true
+  twitter-card: true
+  search: false
   navbar:
     left:
       - href: index.qmd

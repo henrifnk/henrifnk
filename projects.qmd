@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
-## BayWaT-AI <span class="badge-soon">starting Oct 2026</span>
+## BayWaT-AI <span class="badge-soon">upcoming</span>
+
+[from Oct 2026]{.item-meta}
 
 ::: {.highlight-box}
 **Process- and AI-based modelling of water temperature in Bavarian rivers, today and tomorrow — tools for Bavarian water management.**
@@ -16,15 +18,15 @@ BayWaT-AI combines process-based and data-driven models to predict and project r
 
 ## ClimEx II
 
-*2022 – 2025*
+[2022 – 2025]{.item-meta}
 
-One of my largest projects to date. [ClimEx II](https://www.lfu.bayern.de/wasser/klimawandel_wasserhaushalt/projekte/climex2/index.htm) studies low-water extremes and drought under climate and land-use change across Bavaria (2020–2025), run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centered on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas ([VBC](https://github.com/henrifnk/VBC)), the application of a European standardised drought index, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. For scientific contributions, see the [publications](publications.qmd).
+One of my largest projects to date. [ClimEx II](https://www.lfu.bayern.de/wasser/klimawandel_wasserhaushalt/projekte/climex2/index.htm) studies low-water extremes and drought under climate and land-use change across Bavaria (2020–2025), run by LMU Munich together with Québec partners, building on the earlier ClimEx project. Within its climate module, my contribution centred on using single-model large ensembles (SMILEs) to decompose climate model output into forced signal, bias and internal variability, with application to drought: a multivariate bias correction method based on zero-inflated vine copulas ([VBC](https://github.com/henrifnk/VBC)), the application of a European standardised drought index, and a deep-learning drought forecasting framework that propagates ensemble-derived uncertainty into probabilistic forecasts. For scientific contributions, see the [publications](publications.qmd).
 
 **Funders:** Bavarian State Ministry for the Environment and Consumer Protection, and the Bavarian State Office for Environment (LfU).
 
 ## Statistical Consulting (StaBLab)
 
-*2022 – 2026*
+[2022 – 2026]{.item-meta}
 
 As a member of [StaBLab](https://www.stat.lmu.de/stablab/en/consulting-research/), LMU's Statistical Consulting Unit, I advise Bachelor, Master and PhD students as well as researchers on the statistical side of their work, from study design and analysis planning through to modelling, interpretation and reporting.
 

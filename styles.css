@@ -27,6 +27,10 @@ a:hover {
   color: var(--accent-dark);
 }
 
+code {
+  color: var(--accent-dark);
+}
+
 /* Navbar */
 .navbar {
   background-color: #ffffff !important;
@@ -81,11 +85,18 @@ a:hover {
 .social-links {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-wrap: wrap;
   gap: 0.6rem;
   margin: 0.25rem 0 1.25rem;
   font-size: 1rem;
+}
+/* Pandoc wraps the links in a <p>; lay that out as the flex row */
+.social-links > p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0;
 }
 .social-links a {
   color: var(--accent-dark);
@@ -93,6 +104,7 @@ a:hover {
   border: 1px solid var(--accent);
   border-radius: 6px;
   padding: 0.3rem 0.7rem;
+  white-space: nowrap;
   transition: color 0.15s, background-color 0.15s;
 }
 .social-links a:hover {
@@ -123,6 +135,25 @@ a:hover {
 }
 .entry-body strong {
   color: var(--text);
+}
+@media (max-width: 576px) {
+  .entry {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .entry-date p {
+    margin-bottom: 0;
+  }
+}
+
+/* Date line under a heading, styled like the CV entry dates */
+.item-meta {
+  display: block;
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: -0.25rem;
+  margin-bottom: 0.9rem;
 }
 
 /* Highlight box, e.g. for the upcoming BayWaT-AI project */
@@ -172,9 +203,14 @@ a:hover {
 .research-box p {
   margin-bottom: 0.6rem;
 }
+.highlight-box > :last-child,
+.research-box > :last-child {
+  margin-bottom: 0;
+}
 
 .badge-soon {
   display: inline-block;
+  font-family: "Source Sans 3", sans-serif;
   background-color: var(--accent);
   color: #fff;
   font-size: 0.75rem;
@@ -183,4 +219,23 @@ a:hover {
   border-radius: 999px;
   margin-left: 0.5rem;
   vertical-align: middle;
+}
+
+/* Publication lists: hanging indent and review-status tag */
+.pub-list p {
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;
+  margin-bottom: 0.9rem;
+}
+.pub-status {
+  display: inline-block;
+  text-indent: 0;
+  color: var(--accent-dark);
+  background-color: #f2f7f8;
+  border: 1px solid #cfe1e3;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.05rem 0.55rem;
+  margin-left: 0.25rem;
 }
